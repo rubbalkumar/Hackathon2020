@@ -1,0 +1,2531 @@
+Resume,Score,Category
+"RUBBAL KUMAR
+520-244-2492 | rubbalkumar@email.arizona.edu |
+https://www.linkedin.com/in/rubbalkumar/
+EDUCATION
+University of Arizona - Tucson, AZ 08/2016-12/2019
+? Major 1: BS Information Science and Technology ?Major 2: BS Mathematics (Computer Science Emphasis)
+? Minor: Computer Science
+? Cumulative GPA: 3.37
+TECHNICAL SKILLS
+? Programming Languages: Python, Java, R, Prolog, X++ (.Net framework), C#
+? Python Libraries: Numpy. Pandas, Matplotlib, Sqlite3, Scikit-learn, Geopy, OpenCV, Skimage, NLTK
+? Web Programming: HTML, CSS, JavaScript, JSON, Node.JS
+? Operating Systems: Windows (7,10, XP), Mac, Linux
+? Databases: MYSQL Server, MongoDB (Basic)
+? Mathematical Skills: Probability, Statistics, Linear Algebra, Differential Equations, Cryptography
+? Other Skills: Machine Learning, Natural Language Processing, AWS (Basic), Dynamics AX, ERP, Git
+EXPERIENCE
+Shamrock Foods ? Information Systems Intern, Phoenix, AZ 05/2019 - 08/2019
+? Effectively communicated within an agile software development team
+? Interacted with multiple stakeholders and gathered user requirements to automate systems
+? Improved customer experience for placing orders online by working on software development project (Dynamics AX & X++)
+? Gathered data using MS SQL Server, analyzed it using MS Excel and presented in the form of SSRS reports.
+University of Arizona - Research Assistant, Tucson, AZ 07/2018 - 12/2018
+? Used machine learning to identify mosquito traps in an image with an eventual goal to reduce mosquito borne illness
+? Processed images including segmentation, filtration, extracting data in the form of coordinates and pixels
+? Manipulated satellite images extracted from Google Maps and OpenStreet Maps
+? Developed Python script using libraries like Numpy, Pandas, OpenCV, Skimage
+University of Arizona - Teaching Assistant, Tucson, AZ 08/2017 - 05/2018
+Calculus I (MATH 125) AND Calculus II (MATH 129)
+? Developed study guides, notes, practice problems, and created homework keys
+? Tutored students in Mathematics Tutoring Center
+? Managed office hours, lead review/study sessions, graded assignments and proctored exams and quizzes
+PROJECTS
+Indian 2019 Prime Minister Election Results Predictor
+? Scraped tweets using Webscraper.io with trending hashtags related to elections.
+? Manually annotated tweets by giving labels if the tweet was positive or negative towards a party.
+? Implemented a Unigram Model (NLTK, Scikit-learn) which classified the tweets with corresponding parties with accuracy of 65.31%.
+? Used TextBlob to check the polarity of the tweet and predicted the winning party which turns out to be correct.
+YouTube Spam Comment Detector
+? Created a machine learning program using Scikit-learn and NLTK which predicted if the YouTube comment is spam or not
+? Used Natural Language Processing along with Logistic Regression, Random Forest Regression, Support Vector Machine and Gradient Tree Boosting and compared the results using confusion matrix
+Educate Me (Hackathon 2019) https://github.com/aryanagrawal/educateme
+? Created an adaptive educational website which provides customized video lessons, tutorials, questions along with answers by using Machine Learning method
+? Used K-Means methods to categorize students based on their reading, writing and mathematical scores and provided questions based on their score
+? Validated the adaptive nature of the model using visualization using matplotlib
+? Used Scikit-learn, HTML, CSS, JavaScript, Node.JS, Matplotlib, Pandas",10.5,3
+"SUKRITI SINHA
+ +1 (520) - 222 ? 5505 | sukritisinha@email.arizona.edu | www.linkedin.com/in/sukritisinha
+EDUCATION
+Bachelor of Science
+University of Arizona ? Tucson, AZ                                                                                               August 2016 ? May 2020
+?	Major - Computer Science 
+?	Minor 1 - Astronomy
+?	Minor 2 - Marketing
+?	Cumulative GPA - 3.24
+EXPERIENCE
+University of Arizona - Department of Lunar and Planetary Sciences Laboratory                     May 2019 ? Present
+Student Programmer 
+Tucson, Arizona
+?	Working on a linear dispersion solver code used for plasma physics research ? will be open sourced
+?	Migrating legacy solver code from FORTRAN 90 into Python 3.7
+?	Making the program user-friendly for the plasma, solar, and heliophysics communities. 
+National Optical Astronomy Observatory                                                                                       Jan 2018 ? Dec 2018
+Research Assistant 
+Tucson, Arizona
+?	Worked on organizing the data of transient stars and their lightcurves from the Ogle survey into hdf5 files 
+?	Curated a test data set to be used in semisupervised machine learning for ANTARES
+?	Worked with creating probability distribution plots for the lightcurves of different transient stars
+Wipro                                                                                                                                                   May 2018 ? Aug 2018
+Project Intern ? working on a UI for pumps
+Winterthur, Switzerland
+?	Spoke to clients and attended meetings to learn about client needs
+?	Created custom data visualizations using PowerBI and ZoomCharts for real-time data representation 
+?	Worked in an agile work environment
+PROJECTS
+Personal project ? Snake Game
+?	Created a snake game using HTML, CSS, and JavaScript with backend in Node.js as Web Programming final project
+?	Saved user scores in a file and displayed it when the game was played, checked if username was valid
+Hackathon 2019 ? Educate Me
+?	Created an educational website which provides customized video lessons and tutorials using machine learning, HTML, CSS, JavaScript, Node.js, Matplotlib, and Pandas
+Group project ? Blackhole Game
+?	Created a 2D Platformer game using Java and JavaFX in an agile environment as Object Oriented Programming final project
+?	Game had a health/lives system, point system, enemies, multiple levels, and collectibles 
+Group project ? MyKitchen Website
+?	Built a website ?MyKitchen? using HTML, CSS, JavaScript with backend in Node.js for Cloud Computing final project
+?	Saved all ingredients, recipes, etc. on MySQL database (on AWS) 
+TECHNICAL SKILLS 
+?	Programming languages ? Python, Java, MIPS, C, Processing
+?	Python Libraries ? Scipy, Numpy, Pandas, Matplotlib, Astropy
+?	Web Programming ? HTML, CSS, JavaScript, JSON, Node.js, d3
+?	Operating Systems ? Windows, Mac, Linux
+?	Databases ? MySQL, Microsoft Excel
+?	Creative Applications ? Photoshop, InDesign, Illustrator, Adobe Premiere Rush, Spark, PowerBI, Microsoft Office
+?	Marketing Skills ? Collecting data (qualitative, quantitative), understanding and creating a marketing campaign. 
+AWARDS & ACKNOWLEDGEMENTS 
+?	College of Science Academic Distinction Award Fall 2016 ? Spring 2017
+?	Dean?s List 2017
+?	3rd place in Breakfast of Champions (Competition for creating marketing plans) for the Eller College of Management 2019.",10,3
+"Sylvie Dandst
+8 Nimble street
+Toronto, ON
+123-456-789 | dandst@mail.com
+
+
+Work Experience
+
+2010 ? Present                           Dance Instructor | The Ballet Company
+Toronto, ON
+
+?Prepare progressive lesson plans that enhance the experience of participants
+?Accurately complete all administrative duties related to dance classes
+?Instruct dance students ages 7 through 17 in proper ballet techniques
+
+2004 ? 2010			      Dancer | XYZ Troupe
+Toronto, ON
+
+?Performed classical routines across productions where singing and acting are required
+?Collaborated with choreographers to modify and refine dance steps
+?Performed as the Baroness in the company production of ""Swan Lake""
+2001 - 2004
+Toronto, ON                          Dancer | Stage Set Co.
+?Served as understudy to the lead dancer in the company production of ""Giselle""
+?Trained in various rudimentary dance moves to master choreography basics
+?Responsible for acquiring props and costumes for multiple performances
+Education
+
+1997 - 2001
+Toronto, ON                           Ryerson Theatre School
+Bachelor of Fine Arts
+
+Additional Skills & Interest
+
+?Fluency in English and French
+?Expert knowledge of ballet and contemporary dance
+?Excellent communication skills
+Team player with a warm personality
+",3,1
+"MD ARFAN UDDIN 
+https://arfan.me(707) 709 6489 
+arfan@email.arizona.eduhttps://www.linkedin.com/in/rfn/
+MD ARFAN UDDIN 
+https://arfan.me(707) 709 6489 
+arfan@email.arizona.eduhttps://www.linkedin.com/in/rfn/
+Education THE UNIVERSITY OF ARIZONA May2020(expected) 
+Bachelor of Science: ComputerScience 
+Major GPA: 3.33/4.00 
+
+
+Coursework: DataStructure& Algorithm,Algorithm,Webprogramming,Cloudcomputing,HCIDatabasedesign,Linearalgebra,Neuralnetwork 
+
+
+Work Hexagon Mining, Software 
+Development 
+Intern. 
+
+
+Experiences ? 
+RewritingtheserializerforMinePlaneScheduleOptimizer(MPSO)inC# 
+andJson.net 
+May2019-Present 
+that preforms2xfasterandtakesaround2x-3xlessmemorybased on benchmarktest. 
+
+
+? 
+Refactoringcodethatismoremaintainable. 
+Department of Computer Science, U of A, Section 
+Leader, 
+Undergraduate 
+TA 
+Jan2019-Present 
+
+
+? 
+TAingCSc 
+252 
+andleadeda sectionof37students for 2hours a week for CSc 
+210 
+? 
+Holdsofficehourtosupportstudentswiththeclassmaterialsandassignments. 
+? 
+Evaluatesprogrammingassignments,quizzes,exams. 
+Office of International Admission, U of A, Lead 
+International 
+Student 
+Assistance. 
+
+
+May2016?Sept2019 
+
+
+? 
+Automateworkusing browser JavaScript 
+that savestimes&clicks. 
+? 
+Guidestudents withthe applicationprocess. 
+Projects Hereim-beta v0.1.1, 
+(Personal) 
+https://hereim.xyz 
+Connectpeopleinmeetupalongwith realtimeprofilesharingw/savingfeature.Developed foriOS 
+andAndroid 
+platformsusingDart 
+andFlutter 
+that wasbuilt ontopof aREST 
+API 
+developed in 
+NodeJS 
+hosted on Google 
+App 
+Engine 
+withMongoDB 
+hosted on MongoDB 
+Atlas 
+andAWS 
+S3. 
+
+
+Mobile app Clone (Personal) 
+https://github.com/arfan-rfn/appClones 
+Cloned Twitter,Instagram,WhatsApp,Uber,FlappyBirdandcreatedNews Reader,Note Taker 
+applicationfor Android 
+byusingJava, Parse, Firebase, Hacker 
+News 
+API, 
+andAWS. 
+
+
+CSc 335: Object oriented programming & design, (Group 
+Project) 
+
+
+Build arealtime group chatapplication with Java 
+socket 
+programming 
+andJavaFX 
+that was 
+selectedas one ofthe bestprojects inthatcategory whichwas developedinAgile 
+Methodology. 
+
+
+Leadership Hack Arizona, Organizer 
+& 
+Volunteer 
+Jan2018?present 
+
+
+? 
+Running workshops for Android Development, Creating apps with Dart & Flutter (2019) 
+? 
+Assist in finding sponsors and workshops for the beginners (2018). 
+Department of Computer Science, U of A, Mentor 
+Jan2018?May2019 
+
+
+? 
+Administer a workshop on Raspberry Pi to inspire CS students on hardwires. 
+? 
+Mentor freshmen and advise them to on how to succeed through academic/career life. 
+Volunteer 
+for 
+Bangladesh 
+(JAGOO), 
+Member 
+Nov2014 
+
+
+? 
+Gather funds for children education in Bangladesh. 
+Winter Cloths Collection, Leader 
+& 
+Planer 
+
+
+Oct2013 ?Dec2013 
+
+
+? 
+Lead a group of 12 and collected approximate $250 donation and 63 bags of used winter clothes 
+for those affected by the cold in Northern Bangladesh. 
+Awards Dean's List with Distinction 2018 
+
+
+Programming Java, NodeJS, Dart, Flutter, JavaScript, Python, NumPy, MongoDB, AWS, Google Cloud, Android, HTML, 
+Experience CSS, Unix, Bash, C, MIPS, C# ",6.5,2
+"Aastha Sinha 
+
+
+sinha42@purdue.edu | 317-389-0137 | 430 W Wood St, West Lafayette, IN 47906 
+
+Education 
+
+B.SCOMPUTER SCIENCE | PURDUE UNIVERSITY, WEST LAFAYETTE 
+Expected Graduation: December 2020 
+Major: Computer Science 
+Minor: Mathematics, Philosophy 
+GPA: 3.48 
+Related coursework: Problem Solving and Object-Oriented Programming, Computer Architecture, 
+Programming in C, Data Structures and Algorithms, Systems Programming, Calculus, Linear Algebra, 
+Software Engineering I, Introductory Statistics, Analysis of Algorithms. 
+
+Experience 
+
+DATA SCIENCE INTERN | WABCO | JUNE ?AUGUST 2019 
+
+? 
+Worked under the CIO to learn the basic database architecture designing and studied industry trends in 
+database management systems 
+? 
+Formatted, cleaned and filtered sales data from 9 different states using RStudio and TableauPrep. 
+? 
+Analyzed and visualized sales data by making graphs, charts and dashboards using Tableau and PowerBI 
+? 
+Researched Augmented and Immersive Analysis and studied the emerging industry trends in these fields and 
+wrote a paper on the topic. 
+RESEARCH ASSISTANT | DISCOVERY PARK UNDERGRADUATE INTERNSHIP | JANUARY ?MAY 2019 
+
+? 
+Worked under Dr. Umit Karabiyik in the research ?Legal and Social Implications of Using Virtual Reality 
+Training for Digital Forensics Investigators? 
+? 
+Used OpenNLP to create a text analyzing software to detect the names of people and places in text messages. 
+? 
+Also worked with a team to develop a virtual reality application to train people in crime scene investigations 
+and prepared a study to test whether training using VR would be more efficient than traditional training. 
+PRIME LAB OPERATOR | PRIME LAB, PURDUE UNIVERSITY | FEBRUARY 2019 -PRESENT 
+
+? 
+Recording data and resolving any kinds of sparks and/or breakdowns in the accelerator 
+UNDERGRADUATE TEACHING ASSISANT | PURDUE UNIVERSITY | AUGUST 2019 ?PRESENT 
+
+? 
+Working as a TA for CS250, which is the Computer Architecture course. 
+? 
+Leading weekly lab session to assist and grade students on their lab work 
+Projects 
+
+PURDUE HEALTHY DINING 
+
+? 
+Collaborated with team of five students to develop a mobile application that uses the Purdue Dining API to 
+calculates the number of calories that a meal has as well as offers some suggested meal ideas. 
+CHESS 
+
+? 
+A player vs player chess with GUI and suggested moves using Python. Used classes (Object oriented 
+programming) to define three components of chess; the board, the pieces, and the search for the next best 
+possible move. 
+Skills 
+
+? 
+Languages ?C, C++, Python, JAVA, HTML, JavaScript, R 
+? 
+Platforms/Tools ?Unity, Adobe Suite (Photoshop, Illustrator, Premiere Rush, Spark, InDesign), Tableau 
+Extra Curriculum and Clubs 
+
+? 
+Women in Science, Mentor 
+? 
+Purdue?sCompetitive Programmers Union, Secretary 
+? 
+Completed a one-week study at CERN, Geneva 
+? 
+Trinity Grade 3 Keyboard Certification ",6,2
+" 
+
+Aayushi Sinha 
+
+ 430 W Wood St, West Lafayette, IN 47906 
+
+ú 317-389-6198 
+
+ ú sinha43@purdue.edu 
+
+___________________________________________________________________ 
+
+Objective 
+
+I?m a junior looking for an internship opportunity in data analysis for summer 2020. 
+
+ 
+
+Education 
+
+Bachelor of Science in Statistics | Purdue University 
+
+Bachelor of Science in Mathematics | Purdue University 
+
+Estimated Graduation: December 2020 
+
+Current GPA: 3.49 
+
+Majors: Statistics ? Math Emphasis, Mathematics/Statistics 
+
+Minors: Economics, and Computer Science 
+
+Related Coursework: Probability, Linear Algebra, Calculus, Foundations of Analysis, Introduction to 
+Statistics, International Trade, Game Theory, Intermediate Macroeconomics, Programming in Java and 
+C, Foundations of Computer Science, and Computer Architecture. 
+
+Honors and Dean List for Spring 2017 and Fall 2018 
+
+ 
+
+Experience 
+
+Research Assistant 
+January-July 2019 
+
+Discovery Park Undergraduate Internship, Purdue University 
+
+. Worked under Dr. Anne Lucietto and Dr. Anthony E. Sparkling in the research ?Construction 
+Management Technology Students Choice of Major.? 
+. Analyzed data on survey done by construction management students to get an in-depth view 
+on the factors that influence students to choose their major. 
+. Used Excel, JMP, Tableau and NVivo to analyze the data and make graphs, tables and word 
+clouds. 
+. Part of the conference paper for the research. 
+. Part of the journal article for the research 
+? Critical Thinking 
+? Fast Learner 
+? Programming Languages: Java and C 
+? Familiarity with Survey 
+Methodology 
+? Statistical Software: R Studio, 
+JMP, SPSS, Microsoft Excel. 
+
+
+
+
+
+
+
+
+ 
+
+Skills 
+
+ 
+
+
+
+Activities 
+
+? Participated in Summer Undergraduate Research Symposium| July 2019 
+? Participated in the Future Work and Learning: Exploring New Frontiers in the Human-Technology 
+Intersection poster session | March 2019 
+? Part of the Association for Women in Mathematics 
+? Completed a one-week internship in CERN, Geneva ",3.5,1
+"Anna Page, BSN, RN
+1234 Dogwood Avenue  ?  Johnson City, TN 37601  ?  (123) 456-7890  ?  anna.page@email.com
+QUALIFICATIONS SUMMARY
+Energetic and deeply dedicated Registered Nurse offering 8 years? hospital healthcare experience.
+?	Nursing: Deliver quality nursing care in high-stress ER settings, deftly performing patient assessments, taking vital signs, administering medications, setting up IV pumps, and providing wound and ostomy care.
+?	Regulatory Compliance: Ensure strict compliance with all JCAHO and HIPAA standards.
+?	Communications: Communicate effectively in English and Spanish to educate patients and families in treatment plans and medical statuses. 
+?	Key Strengths: Proven leadership and collaborative talents, easily motivating and guiding nursing staff in daily shift tasks and responsibilities.  
+PROFESSIONAL EXPERIENCE
+JOHNSON CITY MEDICAL CENTER, Johnson City, TN
+Registered Nurse (09/2014-Present)
+Skillfully provided nursing care at Level I trauma center to patients suffering cardiac arrest, multiple traumas, strokes, overdoses, and assaults. Performed defibrillations, intubations, auto transfusions, Medlock insertions, and other medical interventions.  
+?	Served as preceptor for new nursing students. 
+?	Supervised ~40 RNs, LPNs, CNAs, and medical technicians in provision of quality medical care.
+
+LAUGHLIN MEMORIAL HOSPITAL, Greeneville, TN
+Registered Nurse (06/2010-08/2014)
+Provided ER nursing care and lifesaving medical interventions to patients, collaborating seamlessly with multidisciplinary healthcare team members to establish treatment plans.
+?	Consistently achieved top ratings on performance evaluations as well as earning 3 formal commendations for providing excellent patient care.  
+?	Willingly worked overtime and on weekends to ensure adequate ER staffing.
+EDUCATION
+Bachelor of Science in Nursing (BSN)
+East Tennessee State University College of Nursing, Johnson City, TN
+
+Registered Nurse (RN), State of TN; PALS, ACLS, BLS, First Aid, and CPR certified
+
+~ Additional information and recommendations available at www.linkedin.com/in/AnnaPage. ~",11.5,4
+"Cocoa Touch
+ctouch@gmail.com | 844-555-0990
+OBJECTIVE:
+An internship or research opportunity that will allow me to utilize my problem solving skills and attention to
+detail to further develop my abilities in the field of computer science.
+EDUCATION:
+Carnegie Mellon University, Pittsburgh PA
+Bachelor of Science in Computer Science, May 2018
+Walnut Hills High School, Cincinnati, OH
+Diploma with Honors, June 2014 GPA 4.0/4.0
+COURSEWORK:
+Analysis I and II; Introduction to Programming; Concepts of Mathematics; Principles of Imperative
+Programming, Great Theoretical Ideas in Computer Science
+PROJECT:
+Programming Homework: An Adventure Game (Fall 2014)
+*Created a text-based adventure game with a graphical interface in Python.
+EXPERIENCE:
+*Intern for Dr. Richard M. Males, Cincinnati OH (November 2013 -January 2014):
+Assisted in the reformatting of Excel files for data analysis of expert reviews of flood rates and how they
+impact different building structures.
+*Tutor for middle school students with East End Youth Projects (Fall 2014-Present)
+TECHNICAL SKILLS:
+Proficient in Python.
+ACTIVITIES:
+CMU KGB, Fall 2014-Present.
+Varsity High School Cross Country, Fall 2012-Fall 2013 (Team Captain, 2013).
+Varsity High School Track, Spring 2012-Spring 2014
+Junior Engineering Technical Society, 2012-2014.
+HONORS:
+Carnegie Scholarship, Fall 2014-Present.
+National Merit Scholar, 2014
+National AP Scholar Award, 2004
+Cum Laude Society, 2014",4.5,1
+"May Trix
+888-888-8881 | mtrix@andrew.cmu.edu
+EDUCATION
+CARNEGIE MELLON
+UNIVERSITY
+B.S.INCOMPUTERSCIENCE
+Pittsburgh,PA|ExpectedMay2018
+SKILLS
+Java ? Python ? C ? SML ?HTML5 ?
+CSS ? Django ? Android ? LATEX?Git
+Data structures ?Software design
+patterns
+COURSEWORK
+ParallelandSequentialData
+Structures andAlgorithms
+Introduction toComputer Systems
+Software System Construction
+Great TheoreticalIdeas in Computer
+Science
+Web Application Development
+PrinciplesofImperative
+Computation
+Principles of Functional
+Programming
+LINKS
+Github://sumkit
+LinkedIn:// summerkitahara
+EXPERIENCE
+CARNEGIEMELLONUNIVERSITY,HUMAN-COMPUTER
+INTERACTION INSTITUTE | RESEARCH ASSISTANT
+February2016 - Present| Pittsburgh,PA
+? Make Android and web apps for NavCog, a toolthat uses sensors,
+computer vision, and crowdsourcing to help blind people move in
+spaces. Target crowdsourcingeffortto create 3-Dmodelsof buildings
+andmaintain sensors.
+June2015-August2015|Pittsburgh,PA
+? Led3personteamdevelopingmobile andwear apps forChorus, awebbased crowdsourcingconversationalassistant.Has texttospeechand
+speechtotext capabilities.UsesYelpSearchandYahooAPIs.
+? Made a natural language processortoolto be added toChorusweb application.
+BUSINESSGOLFACADEMY | SOCIAL MEDIA MANAGER
+May2015? Present| Pittsburgh,PA
+? Manage the socialmedia presence forBGA,whichencourages
+womento use golftoadvance their careers. TripledTwitterfollowers
+PROJECTS
+UMBRELLA | LEADANDROIDDEVELOPER, GITREPO MANAGER
+February 2016
+? App uses crowdsourcing to fight gender-based violence and the
+bystander effect.Bluetooth-basedmessagingwhereusers
+anonymouslypostsituation.
+BUDGIE |LEADANDROIDDEVELOPER,GITREPOMANAGER
+September 2015
+? Apptomanage andcategorize expenses.ImplementsMicrosoft?s
+Oxford OpitcalCharacterRecognitionAPI. Pie charts show
+spending distribution.
+ACTIVITIES
+WOMEN?SVARSITYGOLF TEAM | CAPTAIN (2014-PRESENT)
+August2014?Present|Pittsburgh,PA
+? Won Thomas B. Craig & LaVerne Craig Tartan Award 2015-2016
+(Most Valuable Player),University Athletic Association All
+Association First Team, Eastern College Athletic Conference
+Rookie of the Month Division III, University Athletic Association
+Women?s Golf Athlete of the Week (3 times)
+? Student Athlete Advisory Council | September 2014 - May 2015
+WOMEN@SCS | MENTOR
+September 2014? Present| Pittsburgh,PA
+? ?Bigsister? intheBig Sister/LittleSistermentoringprogram.
+THEFIRSTTEEOFPITTSBURGH |VOLUNTEERGOLF
+INSTRUCTOR
+September 2014? Present| Pittsburgh,PA
+? Teachgolf and life skills to 20 underprivileged children ages 8-16 years",5,1
+"Al Gorithm
+azg@cmu.edu | (918) 555-6197
+OBJECTIVE
+To obtain a professional position in the consulting industry utilizing my relevant experience, technical expertise,
+and problem solving skills.
+EDUCATION
+Carnegie Mellon University, Pittsburgh, PA
+Bachelor of Science in Computer Science, May 2016 GPA: 3.0
+Selected Coursework: Data Structures (Java), Web Applications, Database Applications, Distributed Systems,
+Computer Systems (C and Unix), Great Theoretical Ideas in Computer Science
+SKILLS
+Coding: C/C++, Java, x86 assembly, C#, PHP, Javascript, HTML, CSS, SML, Ruby, Perl
+Technologies/Environment: Windows, Win32 API/GUI, Linux, MySQL, OpenGL, ASP.NET
+EXPERIENCE
+Artemia Health Systems, Cleveland, Ohio
+Student Intern (Summer 2015)
+? Created new functionality for state-level prescription drug information system
+? Worked with end users to determine their information needs
+? Wrote application to create custom surveys
+? Migrated existing website from SQL Membership to to ASP.NET
+Carnegie Mellon University Computing Services Help Center, Pittsburgh, PA
+Student Consultant (September 2013 ? Present)
+? Resolved issues regarding networking (wired, wireless, and dialup), and email problems for Carnegie
+Mellon University users
+? Answered questions about software supported by the university, such as MS Office
+? Communicated with customers through email, telephone, and face to face
+PROJECTS
+Vintage Foundation (Fall 2014) ? a consulting project in a nonprofit organization
+? Advised on new technologies to help further the organizational mission
+? Instructed program director on building a user-friendly website and relational database
+? Assessed systemic problems and suggested possible solutions
+News Delivery System (Spring 2014) - online information gathering/presentation system
+? Integrated old code with new for web application delivering custom tailored web news
+? Coded in Java using Model-View-Controller architecture
+Ebarter (Fall 2013) - an online bartering system running on Apache Tomcat
+? Applied software engineering principles along with J2SE Web Development Kit
+? Led team in coding phase of development",7,2
+"U.X. (Dee) Sign
+Work Experience
+MHCI Capstone with NASA--Design Lead, Jan ?
+Aug 2014 Collaborated with a team of masters
+students to design for NASA engineers and the
+International Space Station, designed and developed
+a mobile application and RFID tracking system.
+CMU School of Design--Teaching Assistant, Aug ?
+Dec 2013 Aided two professors in teaching 41 firstyear design students the basics of design principles.
+Guided the students, answered questions, attended
+their class, and helped document their work.
+Apple--Visual Interface Design Intern, Summer
+2013
+Created usable interactions. Designed user flows.
+Worked on new features with the iTunes Apps
+Design team. Ideated new interfaces.
+Penguin Group (USA)--Design/Art Intern, June ?
+Aug 2012 Designed e-book covers. Assisted cover
+designers with type- setting on book jackets. Proposed
+full book covers to art director.
+Branding Brand?UX Designer, Fall 2014
+Designed mobile sites and apps for major e-commerce
+brands. Analyzed client sites and provided
+recommendations to improve. Devised and
+implemented A/B tests and measured results. Oversaw
+design of new products from conception to launch
+Involvement
+CMU Spring Carnival Head of Marketing, 2013 ?
+April 2014 CMU School of Drama?s Playground
+Designer, 2013, 2014 Counterpoint A Cappella
+President, Jan 2011 ? Nov 2013 CMU CMU
+Orientation Leader, Aug 2011 ? Aug 2013
+www.uxsign.net
+uxsi@gmail.com
+(844)555-1905
+Education
+Carnegie Mellon University
+Masters of Human-Computer Interaction, Dec.
+2014
+Carnegie Mellon University
+BFA in Communication Design, May
+2014
+Double major in HCI
+3.76/4.0 GPA, with highest honors
+Recognition
+Phi Kappa Phi Honor Society, Sept
+2013
+Andrew Carnegie Society Scholar,
+Sept 2013
+School of Design Merit Award, May
+2012
+Carnegie Mellon Dean?s List 6/8
+semesters
+Skills
+User Research:
+Contextual Design
+Think Aloud
+Persona Design
+Storyboarding
+Heuristic Evaluation
+Design:
+Sketch
+Photoshop
+Illustrator
+InDesign
+AfterEffects
+Prototyping:
+HTML/CSS
+Javascript
+MATLAB
+Arduino",5.5,2
+"MACK CROLANGUAGE
+844-555-2626 | mackcrol@gmail.com
+EDUCATION
+Carnegie Mellon University,Pittsburgh, PA
+Master of Science,Computer Science, December 2015
+Selected Coursework: IntroductiontoMachineLearning (10-601, Fall2014), DistributedSystems(15-440/640, Fall2014),
+Algorithm DesignandAnalysis(15-451/651,Fall2014),WebAppsDevelopment(15-637,Spring2015),MachineLearning
+with Large Datasets(10-605, Spring 2015), Graduate Artificial Intelligence (15-780, Spring 2015)
+
+Birla Institute of Technology and Science, Pilani, India
+Bachelor of Engineering (Hons.), Computer Science (Minor: M.Sc. Economics), July 2014
+SKILLS
+Programming/ScriptingLanguages:(Proficient)Java;(Familiar)Python,C,SQL,Javascript,MATLAB,Perl
+Frameworksand tools: Hadoop,Django,DKProforNLP,Maven,Git
+EXPERIENCE
+Software Engineering Intern
+Yahoo! Inc., Sunnyvale, CA, May - August, 2015
+? Internedwiththeuserdata team,whichispartofcloudservicesatYahoo!
+Research Intern
+Ubiquitous Knowledge Processing Lab, TU Darmstadt, Germany, January - June, 2014
+? Developed an application (in Java) using the DKPro library to automatically solve multiple choice reading comprehension
+questions. Using textsimilarityand textual entailmentmeasures, it obtained the 2nd best scoreintheCLEFEntranceExams
+competition.
+Research Student
+Computer Engineering and Networks Laboratory, ETH Zurich, Switzerland, July - December, 2013
+? Developed an application (in Python)to use a tree-based learning algorithm to model the deadline hit and miss patterns of
+periodic real-time tasks. The algorithm used formal verification techniques to generate a regularlanguage-based guarantee to
+predictfuture deadline hits andmisses.
+Developer (Google Summer of Code)
+Student Developer for National Resource for Network Biology (NRNB), Summer 2012
+? Built an app (in Java)forCytoscape, an open-source software for complex networkvisualization. The app helped usersto
+visually analyze and modify molecular interaction networks.
+PROJECTS
+MapReduce Engine
+Carnegie Mellon University, Fall 2014
+? ImplementedaHadoop-likeMapReduce facility,withmaster andworkernodesformap-reduce operations over large datasets,
+with a distributed file system, and fault tolerance to address datanode failures.
+Object Recognition Using CIFAR-10 Dataset
+Carnegie Mellon University, Fall 2014
+? As part of an in-class Kaggle competition,several approaches were tried to train a model using 4000 imagesforthe
+CIFAR-10dataset. WithGISTdescriptors andaKernelized (RBF)SVM, a test accuracy of 61% was obtained on a dataset
+consisting of 15000 images.
+Intelligent Indoor Emergency Response System
+Carnegie Mellon University, Spring 2015
+? Developed a priority-based auctioning algorithm for task allocation in a multi-agent environment. Using a modified A*
+algorithm, tasks were prioritized based on proximity to the location ofthe fire resulting in an efficient evacuation.",5.5,2
+"Ronny Renner
+82110 Dan Summit Houston TX  Phone +1 (555) 866 6269
+EXPERIENCE
+New York, NY
+COMPUTER SCIENCE / SOFTWARE ENGINEER
+03/2015 ? present
+Summarizing reflection of development results and feedback improvements into future development
+Develop expertise of software architecture which provides safety critical control or efficiency
+Determining how a system should work and how changes in conditions, operations, and the environment will affect product performance outcomes
+Develop and standardize efficient standards of practice for signal processing and coding
+Create, maintain, and communicate software algorithm state machine diagrams
+Communicate and insure execution of the critical path for SW development, as well as, identifying the necessary triggers and milestones within schedule constraints
+Utilizing computers and computer systems (including hardware and software) to program, write software, compile, set up functions, enter data, or process information
+Chicago, IL
+PATENT COMPUTER SCIENCE SEARCHER
+08/2012 ? 11/2014
+Performs detailed computer science technology-related literature searching in various online databases
+Fluently uses search tools offered by a number of vendors as well as in house systems to develop complex search strategies and conduct the searches
+Identifies, examines, and evaluates major publications and tools in scientific and technical areas covered by the Electronic Information Center to which they are assigned
+The incumbent prepares and delivers oral and written presentations and training to patent examiners and special groups concerning the services of the information center and the use of information sources and search tools
+Acts as a backup for reference staff in provision of reference assistance
+Expert in searching for scientific and technical literature in at least one technology area
+Uses independent judgment in selecting from a wide variety of electronic databases
+Detroit, MI
+COMPUTER SCIENCE
+11/2007 ? 06/2012
+Provide application support to MathWorks customers for highly complex technical issues in MATLAB, Simulink, and our entire suite of products
+Contributes to a learning culture by participating on curriculum and system task forces, supporting local campus events such as orientation and graduation, and participating in various other workshops and meetings
+Software testing and debugging
+Exposure to real-world applications
+Build software solutions to assist with day-to-day activities
+Assist with converting Access databases that are in older software versions to upgrade them to newer versions
+Analyze data and document flow in Access and SQL Server databases to streamline/enhance the applications
+EDUCATION
+Bachelor?s Degree in Computer Science
+WEST VIRGINIA UNIVERSITY
+SKILLS
+Excellent verbal and written communication skills including the ability to build successful relationships with student populations
+Ability to learn from students' participation, demonstrates fair and consistent behavior in all matters, and shows compassion without being ineffectual
+Ability to work effectively under pressure and to meet frequently occurring deadlines
+Demonstrated time management and detail-oriented skills
+Ability to develop and complete projects without continued direct supervision
+Ability to instruct students and manage their behavior; organize, communicate, and have interpersonal skills
+Knowledge of subject assigned; curriculum and instruction
+Maintain a professional relationship with colleagues, students, parents, and community members
+Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities
+Use effective communication skills to present information accurately and clearly",5.5,2
+"Dorothy Villafuentes
+Phone: (520) 902-1000
+Email: dvillafuentes@email.arizona.edu
+______________________________________________________________________________________
+Career Goal: I am seeking a summer internship in an industry or organization where I can apply my
+mathematical knowledge and my analytical/problem-solving abilities. I have augmented my mathematical
+studies with courses in computer science and I am interested in finding a position where I can combine
+mathematical analysis with numerical simulations.
+Education:
+The University of Arizona, 2008-present Valley High School, Graduated 2008
+Major: Mathematics. Minor: Computer Science Boca Raton, California
+GPA: 3.4, Major GPA: 3.5, Minor GPA: 3.4
+Expected graduation date: May 2012
+
+College credit earned in high school: I earned college credit for first semester calculus.
+Computer skills: I have a solid general knowledge of computers as well as proficiency in Java and C.
+Relevant coursework completed by May 2011:
+Mathematics courses: Calculus 1, Calculus 2, Vector Calculus, Introduction to Linear Algebra, Formal
+Mathematical Reasoning and Writing, and Analysis of Ordinary Differential Equations, Complex Variables
+Computer science courses: Introduction to Computer Science, Program Design and Development, and
+Object-Oriented Programming and Design
+Other Relevant Courses: Two semesters of Chemistry and one semester of Biology
+Work Experience:
+I was an Undergraduate Teaching Assistant in Fall 2010 for business math. My supervisor was Dr. W.
+Valentoso. I tutored algebra four hours per week and developed several Excel spreadsheets for the business
+mathematics course for Dr. Valentoso. I also held weekly review sessions for the students in his course.
+I held a Undergraduate Research Assistantship in Spring 2011 under the direction of Dr. Warren. I am
+investigating the practicality of reconstructing phase information from images taken in two different focal
+planes (the near field and the far field). This research will continue into next academic year.
+
+Honors/Awards: I received Honorable Mention for Fall Semester 2008 and was on the Dean?s List for the
+other semesters. I am an out-of-state student and have been receiving out-of-state tuition waivers as a
+scholarship. I have also been part of the Honors College since my first year.
+Activities: Since Fall 2009, I have been a member of Math Cats, the Undergraduate Mathematics Club. I
+have participated in several outreach activities sponsored by this club. I am also a member of the Microsoft
+Student Users Group: A club dedicated to the discussion of programming technology and theory, both of
+Microsoft and in general.
+Volunteer Work: I was a volunteer mathematics tutor at a middle school (five hours per week) during the
+academic year, 2009-2010.
+Citizenship: USA
+Availability Date: May 31, 2011 ? August 13, 2011",4,1
+"PAIGE TURNER
+3130 GREEN DR.
+EAST LANSING, MI 48822
+spart34@msu.edu
+EDUCATION
+Bachelor of Science in Zoology May 2003
+Michigan State University, East Lansing, MI
+ú Earned funds for 75% of college through part-time work
+Study Abroad: Economic Transition in Asia Summer 2001
+ú Kyoto, Japan
+EXPERIENCE
+Assistant Manager
+Sparty's Deli, East Lansing, MI July 1999 to present
+ú Supervised and trained serving staff of 10
+ú Ordered $7,000 in weekly supplies
+ú Increased sales by 10% during tenure as assistant manager
+Sales Associate
+Sports Unlimited, Escanaba, MI Summer 2002
+ú In charge of direct sales of athletic shoes, accessories, and apparel
+ú Determined product display placement and arrangement
+ú Selected and ordered products based on understanding of consumer
+demand
+ú Involved in most aspects of managing a retail store including:
+scheduling, store security, customer relations, opening and closing,
+as well as coaching employees to increase sales results
+President
+Zoology Club, Michigan State University June 2002 to present
+ú Organized and supervised work of 3 sub-committees
+ú Allocated annual budget exceeding $5,000
+ú Interacted with university, city, and state officials in service and
+lobbying projects
+ú Increased membership by 23% during presidency
+COMPUTER SKILLS
+Microsoft Office, including Word, Excel, and Access
+Macromedia Dreamweaver",10.5,3
+"Justin Case (513) 000-3885
+6446 S. Kedzie, Chicago, IL 60628 casejust@msu.edu
+
+EDUCATION
+Bachelor of Science in Zoology May 2007
+Michigan State University, East Lansing, MI þ Honors College
+Cumulative G.P.A. 3.3 / 4.0
+Additional major in Fisheries and Wildlife
+Coursework in Statistics and Organic Chemistry
+ CPR and First Aid Certified
+WORK EXPERIENCE
+Research Assistant
+Michigan State University, East Lansing, MI September 2006-present
+Department of Fisheries and Wildlife
+ Completed data analysis using Excel and Sigma Plot
+ Managed bibliographic data in EndNote
+ Estimated species range and landcover changes using ArcView GIS
+ Inventoried data from past research to create new database in Excel
+Research Assistant
+Michigan State University, East Lansing, MI Summer 2005
+Department of Fisheries and Wildlife
+ Verified habitat model for Michigan Department of Natural Resources by detecting
+presence and absence of bird and mammal species in northern Michigan forests
+ Collaborated with team members to manage project within time and funding
+constraints
+ Instructed team members on mammal trapping methods
+Tutor
+America Reads: America Counts, East Lansing, MI January 2004 - May 2004
+Pattengill Middle School
+ ?Tutored students in the classroom in Pre-Algebra, English, History, and Science
+ Tutored students outside the classroom, individually and in groups of 2 -3
+ Worked in a group to run after school program for children ages 10-13, including
+coordinating homework activities and recreation
+Construction Team Member
+Case Construction Company, Escanaba, MI Summers 2001-2003
+ Assisted in residential and industrial construction projects as part of a diverse team of
+trades people and managers
+ Repaired and maintained power tools, light machinery and transportation vehicles
+VOLUNTEER WORK
+Habitat for Humanity January 2003-Dec. 2005
+ Participated in work crews; Recruited volunteers and assisted organization to
+distribute care packages in a fund-raising campaign",11.5,4
+"Carmine Dioxide
+424 Lewis ? Lansing, MI 48823 ? (517) 555-0000 ? cd147@msu.edu
+ ______________________________________________________________________
+
+OBJECTIVE
+ To obtain a full-time position as Associate Environmental Scientist at USGS
+EDUCATION
+Michigan State University Graduation date: May 2007
+ College of Natural Science East Lansing, MI
+ Bachelor of Science in Zoo and Aquarium Science
+GPA: 3.3/4.0
+WORK EXPERIENCE
+Howard Hall Senior Resident Mentor August 2004-Present
+ Department of Residence Life, Michigan State University East Lansing, MI
+? Provide support for new students by helping them navigate a complex university system
+? Coordinate social, cultural, educational, and ethical decision-making programs for
+residents
+? Act as a resource person, conflict intermediary, and counselor
+? Document interactions with floor residents, and escalate student issues when necessary
+for intervention with permanent staff
+? Create advertising materials and publicity for special programs
+Exhibit Design, Zoology 497 Fall 2005
+Course Project Michigan State University
+? Designed a meerkat exhibit for Potter Park Zoo, East Lansing, MI
+? Worked as part of a team of four to develop a strategy for the exhibit building
+? Presented the exhibit to the Zoo Governing Board in a competitive bid process
+? Asked to provide further documentation and an implementation plan by Governing
+Board, who chose to go forward with our design in 2005
+Waitstaff/ Bartender June 2002-September 2005
+Ramshorn Country Club Fremont, MI
+? Worked to provide top quality customer service
+? Immediately addressed complaints and discrepancies to make sure customers were
+satisfied.
+? Managed the opening and closing of restaurant, including stocking cash registers and
+bank deposits
+? Assisted managers with event planning and ordering.
+ORGANIZATIONS
+Member/Volunteer, Girl Scouts of America
+Member, Golden Key International Honor Society
+Member, MSU Zoology Students Association
+Interview Conductor, MSU Residence Life Senior Staff Selection Committee
+AWARDS
+ -Who?s Who Among America?s High School Students
+ -MSU Dean?s List: five semesters
+ -Girl Scouts of America: Silver and Gold Awards ",10.5,3
+"Outta DeLoop
+5342 E Spartan Village Cell:517-410-5559
+East Lansing, MI 48823 Email:deloop9@msu.edu
+EDUCATION
+MICHIGAN STATE UNIVERSITY, East Lansing, MI
+Bachelor of Science: Medical Technology Dec. 2007
+Treasurer: Medical Laboratory Students Club
+EXPERIENCE
+SPARROW MEDICAL CENTER, Lansing, MI May-August, 2006 & 2007
+Phlebotomist/Lab Generalist
+? Worked primarily in Microbiology, but assisted in Hematology and Chemistry.
+? Set up specimens for culture, performed rapid tests (Group A and B Strep., Rotavirus, RSV,
+and C. Diff.)
+? Performed Gen-Probe Gonorrhea and Chlamydia tests.
+? Read/report gram-stained smears.
+? Drew blood and interacted with patients in a professional, caring manner.
+? Safely disposed of biohazardous materials and potential blood-borne pathogens according to
+state and federal regulations.
+NULL IOTA THETA SOROROITY, Michigan State University
+Vice-President September 2006-May 2007
+? Oversaw operations of active chapter with 78 members
+? Conducted weekly meetings, helping members to reach consensus on issues of membership
+and budgetary priorities
+? Interacted with Alumni Oversight panel and Pan-Hellenic Council
+? Directed two philanthropic projects which raised $7092 for breast cancer research
+COMMUN ITY SERVICE:
+LISTENING EAR CRISIS INTERVENTION CENTER
+Volunteer September 2005-May 2006
+? Respond to calls from individuals seeking assistance during a wide variety of mental health
+crises
+? Escalated emergency calls for appropriate medical or emergency support
+INSTRUMENT EXPERIENCE (Selected)
+Chemistry Analyzers
+o Vitros 250 - IL 1640 Blood Gas Analyzer & 682 CO-Oximeter
+Coagulation Analyzers
+o Sysmex CA6000
+Microbiology
+o Organon Teknika BacT/alert - Gen-Probe Leader
+o Bio-Tek ELx880 with Biolise software
+o VITEK BAC, & BIO cards ",12,4
+"Ginger Chiken 1960« Lake Lansing Rd., Haslett, MI 48840
+ 517-555-2041 gingrcky@msu.edu
+Objective:To obtain an entry level environmental scientist / geologist position.
+Education: Geological Sciences, : Bachelor of Science December 2007
+ Michigan State University, East Lansing, MI
+
+Related Experience:
+Hydrologist-Student Trainee, May 2006 ? August 2006
+USGS-Michigan Water Science Center, Lansing, MI
+? Compiled, organized, and interpreted hydrogeologic information and data from
+available resources concerning water quality, quantity, availability, and
+movement
+? Wrote hydrogeologic summaries for Michigan counties
+? Designed and maintained Microsoft Access database to organize hydrologic
+information
+? Collaborated with Michigan State University, MDEQ, and other members of the
+USGS
+? Managed and recorded time spent on different projects, and met project
+deadlines
+Undergraduate Research Assistant, April 2005 - August 2005
+Michigan State University, East Lansing, MI
+? Interpreted and correlated geophysical and lithologic well logs
+? Collected and prepared samples for petrographic, geochemical, and particle size
+analysis
+? Developed a Microsoft Access database to aid in sample and data organization
+Environmental Lab Technician, September 2003 - May 2003
+Fibertec Environmental Services, Holt, MI
+? Extracted and concentrated semi-volatile organic contaminants in soil and water
+samples
+? Cleaned and labeled laboratory equipment
+? Retrieved and delivered samples for analysis
+Skills:
+? Competent in Microsoft Office, SPSS, MatLab
+? Introduced to ArcView, Stella, and PHREEQC software
+? American Red Cross First Aid and Adult CPR certified, February 2005
+Additional Work History:
+07/2004 - 08/2005 Prep Cook Caffe Tosi
+05/2001 - 08/2001 Ornithology Field Assistant Zoology Dept., Michigan State University
+09/2000 - 12/2001 Banquet Server Kellogg Center, Michigan State University ",12,4
+"Algie Bra
+braal@msu.edu
+East Lansing, MI 43423
+braal@msu.edu
+517.555.1212
+EDUCATION
+Bachelor of Science, December 2007
+Michigan State University, East Lansing, MI
+Major: Mathematics
+GPA: 3.3/4.00
+COMPUTER Languages: Visual C++, Visual Basic 6.0, COBOL, FORTRAN, HTML
+SKILLS Operating Environments: Windows NT/95/96/98/XP/Vista
+Software: MS Word, Excel, Access, Internet Explorer, Minitab, Mathematica
+EXPERIENCE
+Actuarial Assistant, May 2006 - August 2006
+Liberty Mutual Group, Fort Wayne, IN
+? Integrated government data into life insurance actuarial tables for determining
+life expectancies for a variety of insured classes
+? Developed simulation program to achieve greater predictability of life
+expectancy in new classes of diseases released by the Center of Disease Control
+? Formulated extension of computer model for analyzing new strains of the AIDs
+virus
+Freelance Programmer, August 2002 ? May 2007
+? Fixed bugs and helped students write various programs
+? Used FrontPage and HTML to include Web page design in issues
+Mathematics Tutor, Summer 2005
+Center for Teaching and Learning, MSU
+? Served as math tutor for Introductory and Remedial Mathematical courses
+? Developed ?Math FAQ-Frequently Asked Questions? handout
+ACTIVITIES/ HONORS
+ Math Club (2007) Treasurer
+ Pi Mu Epsilon (2005)President
+Phi Kappa Phi (2006)
+Golden Key National Honor Society (2006)
+General Electric Prize in Mathematics (For excellence in
+Mathematics, 2006)
+Winner of the Chess Club Grand Master Series (2007)",3,1
+"FirstName LastName Towson, MD ? 410-555-5555 ? tstudent@towson.edu
+TECHNICAL SKILLS
+? ASP/ADO, C/C++, .NET, Java, SQL, XHTML/CSS/JavaScript, Cold Fusion, VBScript, XML
+? Microsoft Windows, Linux
+? Micromedia Flash, Adobe Photoshop, PageMaker
+? SAP, Glassfish, Ruby/Rails, Groovy/Grails
+EDUCATION
+Bachelor of Science in Information Systems, Towson University, Towson, MD May 20xx
+? Cumulative GPA 3.6/4.0
+? Related coursework: Software Project Management, Systems Analysis and Design,
+Organizational Database Management, Advanced Operations Management
+Associate of Arts in Business, Marketing, Howard Community College, Columbia, MD Dec. 20xx
+? President of Marketing Club, Sept. 20xx-May 20xx
+RELATED EXPERIENCE
+E-Commerce Web Master/Web Database Developer; BXR Inc., Towson, MD Mar. 20xx-Present
+? Develop and manage company Web site using Dreamweaver
+? Design Web database applications using ASP and other Microsoft solutions
+? Use ADSL to set up Internet proxy server
+? Perform server speed tests on Unix boxes, Linux and Sun Sparc Web servers
+? Develop real time credit card authorization and real time credit approval (HRSI)
+over Web shopping applications
+Computer Library Technician, Towson University, Towson, MD Feb. 20xx-Mar. 20xx
+? Collaborated with head librarian to deploy new firewalls and servers
+? Taught students to use over 20 online library databases
+Database Technician, TU Electronic Media and Film laboratory, Towson, MD May 20xx- Aug. 20xx
+LEADERSHIP AND AFFILIATIONS
+President, Towson University Computer Science Club, Towson, MD May 20xx-Present
+? Plan events for Computer & Information Science majors such as professional panels,
+technology workshops, networking dinners and graduate school preparation sessions
+? Manage budget of $2,000 from university fund
+? Serve as a liaison between club board members and campus life
+Member, Association of Information and Technology Professionals (AITP), Towson, MD Aug. 20xx-Present
+Member, Towson University Queer Student Union (QSU), Towson, MD Feb. 20xx-Present
+? Facilitate cultural appreciation on campus by managing QSU Facebook page and
+promoting events through Twitter and LinkedIn
+Team Captain/Volunteer, Race for the Cure, Towson, MD June 20xx",5.5,2
+"Kara McKenzie
+550 Mueller Mills Chicago IL  Phone +1 (555) 247 6280
+EXPERIENCE
+Detroit, MI
+DIRECTOR OF INFORMATION SYSTEMS
+12/2014 ? present
+Developing annual budgets, capital plans and system development plans and monitoring performance against plans
+Actively participates in IT leadership team. Collaboratively develops IT strategic directions and executes designated top management directives
+Manage new feature requests and provide prioritization for solution rollout
+Leading the functions of the information technology organization through subordinate managers and project managers
+Manages Essential Peer, Subordinate and Management Relationships
+Manage and supervise the Manager of Operations and Logistics
+Capitalizes on opportunities to implement the use of modern development methodologies (ex: test-driven / behavioral-driven development)
+San Francisco, CA
+INFORMATION SYSTEMS
+03/2012 ? 08/2014
+Overall Performance management including Summary, Financial metrics/KPI reporting, ROI performance reporting
+Employ ITS-provided services where it is logical, and work with ITS to ensure services are installed and working properly
+Strategic Performance Management
+Perform application and network security assessments
+Analysis, selection and modification of application software, installation of network hardware and software, and database management and integrity
+Methodologies include metrics definition, process development and improvement, alignment with all regions
+Portfolio Management verifying investment types and overall investment mix within guidelines provided
+San Francisco, CA
+INFORMATION SYSTEMS ASSISTANT
+07/2009 ? 11/2011
+Assists in performing software distribution updates, scripting, testing, and support
+Provides ongoing and specialized training to end-users on standard and language specific systems, including word processing techniques, CAT tools and other software and databases; advises users on alignment, technology, including but not limited to machine translation systems
+Keeps abreast of developments in the field; performs benchmarking and proposes new acquisitions
+Participates in the development, programming, testing, debugging and implementation of new application systems releases, modules and functionalities contained in the UNCTAD internet and intranet web sites, using Microsoft SharePoint 2013 technology
+Drafts correspondence and communications, including work plan revisions and other related issues, as well as prepares unit contributions for a variety of periodic reports
+Conducts research on new technologies as requested; keeps abreast of developments in the field; assists in testing and evaluating new products and technologies
+Designs and develops computer application systems and programs using UN established standards for IT technologies, programming languages and tools
+EDUCATION
+Bachelor?s Degree in Computer Science
+QUINNIPIAC UNIVERSITY
+SKILLS
+Planning and Budgeting
+Project Management
+Risk Management
+Department/Team Management
+Database Management
+Networking and all related technologies
+IT Security
+Server and Desktop Virtualization
+Server and Desktop Technology
+Firewalls and network Monitoring",13.5,4
+"Coty Grimes
+4697 Nels Overpass San Francisco CA  Phone +1 (555) 116 4518
+EXPERIENCE
+New York, NY
+SENIOR ANALYST, BUSINESS INFORMATION SYSTEMS
+03/2014 ? present
+Act as a primary decision maker for end to end technology concepts
+Prepares detailed specifications from which programs will be written
+Functions as a liaison between the client, community, and internal ITand/or external software vendors to develop system solutions toprocessing systems or business problems
+Ensures data quality and integrity across data-specific applicationimplementations
+Consistent exercise of independent judgment and discretion in mattersof significance
+Analyzes and revises existing system logic difficulties anddocumentation, as necessary
+Other duties and responsibilities as assigned
+New York, NY
+MANAGER, BUSINESS INFORMATION SYSTEMS
+06/2008 ? 11/2013
+Create IT risk management plan
+Perform a post-implementation review
+Maintains a safe, clean, and neat network and server operations environment
+Evaluates all major system modifications and development requests to determine potential benefits and impact on business and information system operations
+Develops, implements, and maintains a Disaster Recovery Plan that ensures the Company's information systems are protected
+Recruits, builds, and nurtures high performance team
+Working with the Global Director IT BRM, define the strategic plan and road map and communicate the IT strategy and direction to the divisions
+Dallas, TX
+ANALYST, BUSINESS INFORMATION SYSTEMS
+08/2004 ? 12/2007
+Works independently with some direction of an immediate supervisor or manager
+Works independently under the direction of an immediate supervisor or manager
+Presents work to stakeholders and end users
+Relationship and stakeholder management with senior leadership
+Develops and maintains System and Process flow diagrams
+Assists in preparing detailed specifications from which programs will be written
+Supports in the monitoring of implementation progress for compliance with budget and time constraints
+EDUCATION
+Master?s Degree in Accounting
+UNIVERSITY OF MEMPHIS
+SKILLS
+Ability to focus on deadlines and deliverables ensures the ability to find the bad defects and bugs quickly
+Ability to think abstract to ensure ability to not conform to the norm. Norms do not find bugs quickly
+Responsible for maintaining a self-service reporting application. Ensure reports are actionable and remain aligned to current business practices
+Identifies and assesses probable interactions of related computer systems and predicts impact of a change in assigned system
+Prepares detailed specifications from which programs will be written
+Ensures data quality and integrity across data-specific application implementations
+Clear communicator (written and verbal) to ensure ability to write test plans and test cases. To communicate bugs to developers and other stakeholders
+Analyzes and revises existing system logic difficulties and documentation, as necessary
+Other duties and responsibilities as assigned
+Liaison with development, project management, and customer support",12,4
+"Joseph Smith
+Email: smith@example.com
+Home Address: 2358A Andrae Road, Honolulu, California
+Contact Details: (808) 111-1750
+
+Career Summary:
+
+More than three years of professional experience in planning, developing, and providing diagnostic and therapeutic radiology services to patients in health care setting. Looking for an opportunity to work as a health and medical physicist in a renowned organization
+
+Professional Skills:
+
+Extensive knowledge of radiation oncology, medical and radiological physics, and radiation therapy physics
+Comprehensive knowledge of machine installation and calibration as well as testing quality assurance
+Skilled in developing and evaluating treatment planning, safety guidelines, and procedures
+In-depth knowledge of the concepts of mathematics, biochemistry, and electronics
+Familiar with laser safety Standards, medical surveillance practices, and fundamentals of occupational Health and Safety Administration
+Well versed in radiation measurement, protocols, and radioactive materials
+Skilled in evaluation and analysis of radiation health effects, Federal Emergency Management, and risk analysis
+Education Details:
+
+Bachelor of Science in Physics
+University of California in the year 2008
+
+Work History:
+
+Organization: Health Care Centre, California
+Designation: Health and Medical Physicist
+
+Responsible for providing guidelines and instructions to physicians in ionizing radiation and radioactive devices
+Assigned responsibilities of providing training sessions in patient care and services by using radiology devices
+Responsible for radiation surveillance, radiological incidents, and risk assessment
+Perform the tasks of developing programs on Ionizing Radiation and Radioactive materials Responsible for planning and educating staff on radiation safety procedures
+Assigned the tasks of performing contamination surveys to ensure that the programs meet regulation requirements Responsible for developing plans to respond effectively in radiation incidents
+Organization: Central Hospital, California
+Designation: Junior Health and Medical Physicist
+
+Handled the tasks of providing research and educational services to support strategic goal of the health care center
+Performed responsibilities of providing support in areas of planning the usage procedures and disposal of radiation producing devices
+Assigned the tasks of performing X-Ray Radiologic surveys to ensure safety operation of the medical equipment
+Responsible for monitoring that the storing and usage of radioactive materials follows safety standards
+Handled the tasks of implementing and monitoring the use of X-Rays and radioactivity devices",11,3
+"Maria Tanner, Ph.D.
+Sometown, CA 55555 | (555) 555-5555 | mt@somedomain.com | LinkedIn URL
+
+Data Scientist | Quantitative Analyst
+
+Providing data-driven, action-oriented solutions to challenging business problems
+
+Business-minded data scientist with a demonstrated ability to deliver valuable insights via data analytics and advanced data-driven methods. Relied on as a key advisor in driving global, multibillion-dollar growth; gains in customer loyalty; and record-setting profit improvements.
+
+Expertise
+
+Data and Quantitative Analysis
+Decision Analytics
+Predictive Modeling
+Data-Driven Personalization
+KPI Dashboards and BPI Plans
+Big Data Queries and Interpretation
+Data Mining and Visualization Tools
+Machine Learning Algorithms
+Business Intelligence (BI)
+Research, Reports and Forecasts
+Professional Experience
+
+ABC, Inc. (Subscriber-based provider of streaming digital movies and TV)
+Data Scientist, 2013 to Present | Sr. Analyst, 2011 to 2013 | Research Associate, 2008 to 2011
+
+Furnish executive leadership team with insights, analytics, reports and recommendations enabling effective strategic planning across all business units, distribution channels and product lines.
+
+Developed intricate algorithms based on deep-dive statistical analysis and predictive data modeling that were used to deepen relationships, strengthen longevity and personalize interactions with customers.
+Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+Identified, measured and recommended improvement strategies for KPIs across all business areas.
+Quantifiable results:
+
+Propelled 2-year revenue growth from $1.2B to $3.25B.
+Achieved an 87% renewal rate (15% above goal) in 2017.
+Boosted market share by 16%, customer satisfaction by 25% and mobile users by 350% in 2017.
+Teaching Appointments: Teach undergraduate and graduate-level courses in statistics and economics as an adjunct faculty member at ABC University (2014 to Present) and XYZ University (2011 to 2014).
+
+Education
+
+ABC University | Ph.D. in Statistics | MA in Behavioral Economics
+XYZ University | BS in Mathematics, Minor in Computer Science
+
+Of Note
+
+Data and Analytics Tools/Languages: Spark, SparkR, R, Python, Scala, Hive, SQL, SAS, Tableau, SPSS, Hadoop, Stata, Google Analytics, Amazon Web Services
+Publications and Presentations: Available at mariatannerphdportfolio.com",6,2
+"Jessica B. Zhaan
+8421 Silver Star Court, Unit 13C  ú  Toledo, Ohio 43602
+zhaanmse@myisp.com  ú  (419) 555-2123
+
+Mechanical Engineer
+
+Highly analytical, performance-driven engineering professional with 10+ years? experience creating innovative, cost-efficient designs.
+
+Solid expertise in applied research, new content development, simulation, and validation.
+Broad knowledge in the alternative fuels industry, including repeated success developing prototypes that improve marketability for previously unfeasible technologies.
+Superior problem-solving and time-management abilities; adept at identifying the root cause of issues and implementing creative, targeted solutions.
+Team spirited with effective communication and presentation skills, able to coordinate with management, vendors, and staff to achieve goals.
+Technical Proficiencies
+
+Software:
+
+Autodesk, AutoCAD, Mathcad, LabVIEW, Rhino, MATLAB, Mathematica, SolidWorks, MS Project, MS Office Suite (Word, Excel, Outlook, PowerPoint)
+
+Research & Design:
+
+Project / Quantification Planning, Finite Element Analysis (FEA), ISO & Safety Compliance, On- and Off-line Test Development, Statistical / Process Analysis, Design & Validation, Manufacturing Specifications
+
+ 
+
+Professional Experience
+
+Fraczal, Inc. ? Toledo, Ohio
+Mechanical Design Engineer, 3/2011 ? Present
+
+Collaborate with product developers and engineers to develop and operationalize state-of-the-art alternative power plant concepts for automotive applications.
+
+Research and review existing technologies based upon target markets; apply design analysis, FEA process, and non-linear engineering concepts to create plans. Coordinate with suppliers / vendors and internal engineering resources to obtain prototype parts and equipment; define functional, dimensional, and visual requirements for components. Evaluate and demonstrate manufacturing feasibility and technical justification for design approach; conduct design validation. Maintain comprehensive documentation of complex design activities.
+
+Doubled life of liquid hydrogen in vehicle-mounted tanks in collaboration with Chemical Engineers during design of hydrogen re-uptake and sublimation reclamation system.
+Conceived, designed, and prototyped a light-weight infinitely variable transmission (IVT) for use with hydrogen fuel cell engines, resulting in 6% improvement in fuel efficiency.
+Played integral role in patent-pending electric motorcycle concept combining miniaturized IVT with regenerative braking.
+Developed low-weight, low-friction piston assembly for air-pressure vehicle (air car), increasing top speed of prototype by 11% with no decrease in range.
+GAD Transmissions ? Detroit, Michigan
+Mechanical Engineer, 8/2008 ? 3/2011
+
+Researched and designed new auxiliary equipment to ensure ongoing industry advantage for a CVT / IVT transmission manufacturer.
+
+Developed new tooling concepts and techniques to maximize production effectiveness. Conducted build-versus-buy analysis for new equipment. Teamed with senior engineers to prototype equipment; conducted project / qualification planning for each prototype. Assisted with design documentation utilizing detailed technical drawings and engineering specifications.
+
+Enabled 11% increase in output across three lines by designing, prototyping, testing, and rolling out faster robot-arm assembly.
+Contributed to development of new belting system for flagship CVT product, leading to 3% friction decrease during high-RPM operations.
+Elantro Tool and Die ? Lincoln Park, Michigan
+Jr. Mechanical Engineer, 4/2006 ? 7/2008
+
+Integral to design of new and upgraded equipment for a leading supplier of automotive dies for General Motors.
+
+Analyzed equipment performance and identified inefficiencies. Interfaced with production managers, engineers, and project managers in designing, prototyping, and testing new equipment. Composed technical specifications and design drawings.
+
+Offered major contributions to three-year line overhaul plan, submitting multiple schematics for peer review and validation; concept accepted and integrated into final rollout.
+Education & Credentials
+
+Master of Science in Engineering (MSE), Mechanical Engineering, 2005
+University of Michigan ? Ann Arbor, Michigan
+
+Bachelor of Science in Mechanical Engineering (BSME), 2004
+Michigan State University ? East Lansing, Michigan
+
+Professional Development:
+
+Advanced Design in Fluid Mechanics
+Heat Transfer and Thermodynamics: Application of New Materials
+Alternative Fuel Vehicles: Concept to Reality
+Reducing Mechanical Vibration: A Materials Approach
+Member: American Society of Mechanical Engineers (ASME)",4.5,1
+"MARY SMITH
+Sometown, PA 17000
+Phone: (555) 555-5555 | Email: ms@somedomain.com | LinkedIn URL
+
+Recent graduate of ABET-accredited BSME program seeking an entry-level mechanical engineering position.
+
+Key skills and knowledge areas:
+
+Solid command of technologies, tools and best practices in designing mechanical equipment using AutoCAD, SolidWorks and engineering drawings.
+Excellent shop and safety skills honed from work as a machinist and welder. Able to design and fabricate tooling and mechanical test fixtures.
+Strong team collaboration skills. Work closely with team members to achieve engineering goals.?
+Education
+ 
+ABC University -- Sometown, PA
+Ranked in the top 10 mechanical engineering schools by US News and World Report
+Bachelor of Science in Mechanical Engineering (BSME), GPA: 3.4, 5/2016
+
+Completed Courses in Major:
+Statics, Dynamics, Engineering Analysis, Mechanics of Materials, Fluid Mechanics, Dynamics of Machinery, Measurement and Instrumentation, Mechanical Engineering Thermodynamics, Industrial Processes, Elements of Material Engineering, Machine Design, Mechanical Vibrations, Thermal Systems Laboratory, Heat and Mass Transfer
+Design Project:
+Completed senior project at DEF Company, a manufacturer of machine tools for the sheet metal industry.
+Assisted engineering department in designing straight hand seamer used in bending, seaming and flattening sheet metal.
+Created models using SolidWorks and participated in cross-functional product-development meetings.
+Contributed idea for change in handle design that is expected to improve comfort and safety when gripping the seamer. Product is currently in preproduction testing phase.
+TECHNICAL SKILLS
+
+Programs: AutoCAD, SolidWorks, MS Project, MATLAB, MS Excel
+Machining and Welding Tools: CNCs, mills, lathes, angle grinders, plasma cutters, oxy-acetylene torches, arc welders, band saws, grinders, shears, drill presses, chop saws, etc.
+
+WORK EXPERIENCE
+
+Hired by ABC Machining Company as well as local construction companies to handle per-diem projects.
+Machinist & Welder (contractor), 9/2015 to Present
+
+Earned a reputation as a talented machinist and welder. Developed excellent fabrication and machine shop skills, completing all projects on time and to specifications.
+Handled welding assignments that involved installing, repairing and fabricating materials (sheet metal, steel, tools, parts, doors, gates and more). Became adept at reading blueprints/drawings and fulfilling work orders.
+Demonstrated advanced skills in operating equipment and machines including CNC machines, cutting machines and hydraulic presses for the fabrication of mechanical components.",13,4
+"Ebony Moore
+Las Cruces NM ? (123) 456-7891
+emoore@email.com
+
+SUMMARY
+Outgoing and detail-oriented Mechanical Engineer with over three years of experience designing, creating, constructing, and using a variety of machines. Has extensive knowledge of DRAM, NAND Imager, and CMOS
+
+EDUCATION
+Coral Springs University
+Aug '10 - May '14
+Mechanical Engineering/Mechanical Design
+
+EXPERIENCE
+TradeLot, Master Engineer
+May '15 - Current
+Assessed 60+ project requirements for correct and accurate information to guarantee first-time results
+Measured and evaluated the accuracy of 40+ mechanical engines and components
+Collaborated with 100+ clients and managers to produce budgets, time limits, and specifications for a variety of projects
+Investigated 60+ pieces of equipment to ensure reliability and safety for all types of users
+Cloud Clearwater, Second Engineer
+Current - Current
+Optimized five computer-based design and modeling software programs to design and construct various projects
+Created and implemented 30+ designs and procedures for testing different aspects of projects
+Evaluated 50+ products and designs to ensure quality and safety
+SKILLS
+Data Assimilation
+Budgeting
+Ebony Moore
+Fowler CO ? (123) 456-7891
+emoore@email.com
+
+SUMMARY
+Established Mechanical Engineer with 15+ years of experience who can analyze F-35 components for static, fatigue, and fracture
+
+EDUCATION
+Hawaii Western
+Aug '98 - May '02
+Engineering/Biomedical Engineering
+
+EXPERIENCE
+RiverTech, First Engineer
+Jan '08 - Current
+Secured 40+ projects by presenting designs and prototypes to a variety of clients and managers
+Investigated and interpreted 100+ pieces of data for accuracy and functionality
+Brainstormed solutions to 40+ problems using a variety of mechanical and thermal devices
+Conceptualized 20+ mechanical and thermal devices using computer-based design software
+Crane and Jenkins, Mechanical Engineer
+Current - Current
+Drafted 50+ reports as well as documentation for projects to ensure communication with clients
+Conveyed technical advice to 10+ coworkers
+Analyzed 30+ results to alter the design as needed
+Retail Ocean, Engineer
+Current - Current
+Supervised the creation of 35+ devices
+Refined after testing 30+ prototypes of a variety of designs
+Researched solutions to 40+ design issues
+SKILLS
+Technical Report Writing
+SolidWorks
+Ebony Moore
+Las Cruces NM ? (123) 456-7891
+emoore@email.com
+
+SUMMARY
+Outgoing and detail-oriented Mechanical Engineer with over three years of experience designing, creating, constructing, and using a variety of machines. Has extensive knowledge of DRAM, NAND Imager, and CMOS
+
+EDUCATION
+Coral Springs University
+Aug '10 - May '14
+Mechanical Engineering/Mechanical Design
+
+EXPERIENCE
+TradeLot, Master Engineer
+May '15 - Current
+Assessed 60+ project requirements for correct and accurate information to guarantee first-time results
+Measured and evaluated the accuracy of 40+ mechanical engines and components
+Collaborated with 100+ clients and managers to produce budgets, time limits, and specifications for a variety of projects
+Investigated 60+ pieces of equipment to ensure reliability and safety for all types of users
+Cloud Clearwater, Second Engineer
+Current - Current
+Optimized five computer-based design and modeling software programs to design and construct various projects
+Created and implemented 30+ designs and procedures for testing different aspects of projects
+Evaluated 50+ products and designs to ensure quality and safety
+SKILLS
+Data Assimilation
+Budgeting
+Ebony Moore
+Fowler CO ? (123) 456-7891
+emoore@email.com
+
+SUMMARY
+Established Mechanical Engineer with 15+ years of experience who can analyze F-35 components for static, fatigue, and fracture
+
+EDUCATION
+Hawaii Western
+Aug '98 - May '02
+Engineering/Biomedical Engineering
+
+EXPERIENCE
+RiverTech, First Engineer
+Jan '08 - Current
+Secured 40+ projects by presenting designs and prototypes to a variety of clients and managers
+Investigated and interpreted 100+ pieces of data for accuracy and functionality
+Brainstormed solutions to 40+ problems using a variety of mechanical and thermal devices
+Conceptualized 20+ mechanical and thermal devices using computer-based design software
+Crane and Jenkins, Mechanical Engineer
+Current - Current
+Drafted 50+ reports as well as documentation for projects to ensure communication with clients
+Conveyed technical advice to 10+ coworkers
+Analyzed 30+ results to alter the design as needed
+Retail Ocean, Engineer
+Current - Current
+Supervised the creation of 35+ devices
+Refined after testing 30+ prototypes of a variety of designs
+Researched solutions to 40+ design issues
+SKILLS
+Technical Report Writing
+SolidWorks
+1
+2
+Common Skills
+Access
+Budgeting
+Essbase
+Financial Modeling
+Financial Reporting
+Forecasting
+Oracle
+Project Management
+QuickBooks
+Common Certifications
+CFA Charterholder
+CFA Level II Candidate
+Chartered Financial Analyst (CFA)
+CPA",3.5,1
+"Ana Jones
+Sometown, CA 90723 | (555) 555-5555 | aj@somedomain.com | LinkedIn URL
+
+CHEMICAL ENGINEER
+
+Oil & Gas Industry Specialist with International Refinery and Consulting Experience
+
+Chemical engineering professional backed by BSChE, multilingual fluencies and successful project engagements with oil and gas refineries. Furnish clients with research, analysis and solutions optimizing operations, improving safety, strengthening compliance and capturing margin-improvement opportunities.
+
+Expertise
+
+Process Engineering
+Chemical Engineering
+Refinery Operations
+HAZOP Studies
+
+Downstream / Upstream Oil & Gas
+Liquefied Natural Gas (LNG)
+Petrochemical Systems & Solutions
+Client Relations & Project Management
+
+Process Modeling & Simulation
+Feasibility Studies & Analysis
+Clean Fuel Standards (CFS)
+Safety & Regulatory Compliance
+
+Professional Experience
+
+ABC Company, Sometown, CA  u  Senior Process Engineer, 2010 to Present
+
+Provide process-engineering consulting services to oil and gas refineries worldwide. Focus on business process reengineering (BPR), profit improvement, workflow optimization and safety enhancement.
+
+Representative Projects:
+
+Operational Turnaround: Managed $14.5M BPR initiative that turned around performance of a Japanese oil refinery. Implemented efficient workflows that increased BBLs/day by 12% and decreased oil loss by 8%.
+Refinery Reconfigurations: Directed refinery optimization studies for clients in AK, CA, India and Mexico. Deliverables included in-depth flowsheets, evaluation of clean-fuel investment options and process improvements that improved efficiency, controls, throughput, profitability and cycle length.
+HAZOP Studies: Performed hazardous operations (HAZOP) studies at refineries in North America. Used findings to design safety and environmental awareness programs that reduced harmful emissions, strengthened regulatory compliance and lowered on-site injuries by 8%.
+DEF Company, Sometown, TX  u  Process Engineer, 2008 to 2010
+
+Served in lead or key participatory roles for top-priority initiatives for F500 company?s oil and refining operations.
+
+Representative Projects:
+
+Plant Design: Completed preliminary process design for a proposed oil refinery in Sometown, TX. Delivered Front End Loaded Stage 2 (FEL-2) package that became the key decision-support tool.  
+Diesel Production Increase: Completed root-cause analysis that identified production bottlenecks, increasing output by 20% and margins by 6%.
+Education
+
+ABC University, Sometown, NY  u  Bachelor of Science in Chemical Engineering (BSChE)
+Chemistry Club / Scholarship Recipient / Dean?s List (all semesters)
+
+Additional Skills
+
+Computers: Matlab  u  Simulink  u  Maple  u  Aspen Hysys / Flarenet  u  MS Excel and Project
+Languages: Fluent in: English  u  Spanish  u  French  |  Conversant in: Japanese",13,4
+"Jewell Murazik
+118 Kendrick Haven Houston TX  Phone +1 (555) 547 0866
+EXPERIENCE
+New York, NY
+PRODUCT BIOLOGY LEAD FOR SEEDCARE
+06/2014 ? present
+Be the technical reference for the Seed Care development products in the Research & Development organization, at territory level, across crops
+Portfolio teams, highlighting and leading the development of opportunities for new products, new uses and new businesses
+Lead the Seed Care Product Biology specialist in the territory. Agree objectives and follow up implementation of plans. Also support them with personal development strategies
+Ensure that the CP product recommendation inside an ?integrated solution? is consistent with the Product (AI) good agriculture practices and label recommendations
+Lead in the territory the processes to capture inputs from Marketing, Technical Support and Research & Development (Biologic Assessment + Regulatory) from Regional and Territory levels, through PLT?s/Proteam, and transform them into projects/protocols
+Ensure technical consistency across the territory regarding product biology knowledge, trial methodologies, biological targets, crop sectors in order to support proper product testing and positioning
+Lead the process to summarize technical data and define GAP in the territory, aligning it with regional / territory MKT, Product Biology and Regulatory teams. Support the countries with GAP definition, ensuring alignment across the region
+Dallas, TX
+HEAD, VECTOR BIOLOGY
+12/2010 ? 04/2014
+Provides mentorship, development plans, and performance assessments of direct reports
+Creates major new external collaborations proposed to management
+Develop alternative vectors, synthetic and non-synthetic, to improve vaccine delivery
+In collaboration with Microbiology Lab, develops cell assays to optimize expression, antigenicity, and innate immunogenicity of vector-based vaccine
+Improve the utility of existing vectors for vaccine delivery (e.g., potency, immunogenicity, multivalent delivery, antigen expression, and targeted delivery)
+Establishes new vaccine technologies and platforms
+Performs periodic review of the progress of projects to implement necessary corrective actions
+Boston, MA
+BIOLOGY LAB TECHNICIAN
+10/2005 ? 08/2010
+Documents safety, accident and other incidents according to established reporting protocols
+Performs specialized and technical duties to assure efficient lab operations
+Perform functional quality control analysis of BioAssay and Molecular Biology products
+Safety Glasses, provided onsite
+Assist with environmental monitoring activities
+Conducts the day to day operational set up of the lab for use by all students and faculty
+Maintain quality lab records according to procedure
+EDUCATION
+Bachelor?s Degree in Biology
+AUBURN UNIVERSITY
+SKILLS
+Excellent verbal and written communication skills including the ability to build successful relationships with student populations
+Ability to learn from students' participation, demonstrates fair and consistent behavior in all matters, and shows compassion without being ineffectual
+Demonstrated time management and detail-oriented skills
+Computer literate and able to navigate in a Windows environment
+Ability to work effectively under pressure and to meet frequently occurring deadlines
+Ability to develop and complete projects without continued direct supervision
+Knowledge and understanding of principles of curriculum development
+Knowledge and understanding of the characteristics and challenges of community college students
+Knowledge and understanding of the fundamentals of effective communication and of effective instruction
+Extensive knowledge of the subject area(s) in which the individual is responsible for instruction",4,1
+"Anson Carter
+123 Main Street, San Francisco, CA 94122
+
+Home: 000-000-0000 | Cell: 000-000-0000
+
+email@example.com
+
+Professional Summary
+Detail-oriented Biotech research specialist who has engaged in several large-scale pharmaceutical studies. Adept at collecting accurate information comparing several types of research data and engaging in safe research activities. Specializes in medical research and corporate compliance work.
+
+Core Qualifications
+Considerable experience in being part of a corporate compliance research time
+Able to work in a variety of biotech research environments
+Experience working in a forensics type setting
+Excellent organization skills
+Exceptional computer skills especially with innovative research equipment
+Very strong part of an efficient team
+Experience
+Biotech3/1/2010 ? 7/1/2014
+Standard LabsNew Parkland, CA
+Responsible for gathering all digital and hard copy data and keeping filed in the proper areas to make it accessible and organized.
+Assisted in utilizing digital research equipment to get extremely accurate results.
+Assisted in comparing current results with historic results to try and develop an educated hypothesis.
+Biotech9/1/2004 ? 3/1/2010
+New Research LabsNew Parkland, CA
+Assisted in accepting new pharmaceutical research project paperwork and getting the project logged into the company system.
+Assisted in gathering all final data and preparing it for analysis by research scientists.
+Assisted in utilizing electronic research equipment to gather portions of necessary data.
+Biotech7/1/1998 ? 9/1/2004
+Action LabsNew Parkland, CA
+Assisted lab staff in setting up new pharmaceutical studies.
+Responsible for making sure that all hard copy data for each study was safely filed away.
+Assisted in creating digital files for each project.
+Education
+Associate?s Degree ? Biology1998
+Forest Community CollegeNew Parkland, CA",12,4
+"Lorna Jast
+1250 Stanton Wall Boston MA  Phone +1 (555) 644 8678
+EXPERIENCE
+Dallas, TX
+FINANCIAL ACCOUNT COORDINATOR SENIOR
+12/2014 ? present
+Provides support and problem resolution to clients, local offices, and other banking staff; answers calls for problem resolution
+Performs other duties as assigned
+Assists with close-out files on bank reconciliation
+Reconciles refunds; recovers deposits
+Analyzes reports to identify reconciliation issues
+Determines and initiates corrective action between banks, clients and local offices
+Responsible for notification and mailing of bank reconciliation to clients and local offices
+Chicago, IL
+FINANCIAL ACCOUNT SPECIALIST
+03/2009 ? 08/2014
+Work with system support to improve process and address operational issues
+Manage team for BAU work - Not fully necessary
+Work on and follow up project or migration with global finance or countries
+Understand how duties relate with others in the unit and how the unit integrates with others in accomplishing the work of the function
+Work closely with business to understand the process flows and promote proofing standardization and automation
+Escalate risky case according to the escalation Matrix
+Determine root causes of proofing items and corrective action plans to address issues
+Phoenix, AZ
+FINANCIAL ACCOUNT
+01/2006 ? 01/2009
+Prepare monthly management accounts, including analysis of accounts, journal postings
+Update and manage the fixed asset registers
+Prepare monthly management reporting pack including KPIs
+Prepare statutory financial statements and supporting external auditors
+Monitor invoicing and cash collection
+On-going professional and technical trainings and certifications
+Company sponsorship of various sports and social clubs
+EDUCATION
+Bachelor?s Degree in Business
+BOWLING GREEN STATE UNIVERSITY
+SKILLS
+Strong team player but also highly self-motivated
+Proven ability to work under pressure and in a deadline-driven environment
+IFRS experience highly advantageous
+Strong ERP and systems experience - SUN and Oracle experience advantageous
+Advanced Excel skills
+Proven interpersonal and communication skills
+Qualified Accountant (ACCA, ACA or CIMA),
+Analytical with a solutions focused outlook",4,1
+"Lazaro Ruecker
+56833 Alisha Springs Chicago IL  Phone +1 (555) 724 2041
+EXPERIENCE
+San Francisco, CA
+SECTOR SALES MANAGER / ACCOUNT DIRECTOR
+10/2014 ? present
+Manage virtual centralized Delivery team assigned for proposal creation and develop the in country delivery team as business grows
+To provide customer & market feedback and insight to the portfolio management teams as a member of the Global Practice BT Connect and BT One
+The role holder is responsible for the development of sales of designated products in an established account, market sector or product-line
+Responsible for bringing the target revenue in working the Account Management team
+Manage direct relationships with management representatives for all key accounts
+To create and close sales opportunities for BT Connect and BT One where these opportunities are
+Ideally has worked within an operations team / teams in the delivery of messaging solutions to financial institutions
+Detroit, MI
+ACCOUNT DIRECTOR, HILTON WORLDWIDE SALES
+09/2010 ? 09/2014
+Provide direction to team members and establishes work priorities to achieve management objectives for those accounts managed by incumbents
+Establish and develop long term effective working relationships with key customers to drive business
+To provide accurate management reports to review account performance and communicate future plans
+Establish and enforce policies and procedures to improve overall operations
+Execute strategic account development plans and supports communications of key messages internally and externally
+Assess actual performance to ensure success and takes corrective actions
+Develop and maintain Hilton Best Practice to ensure accurate and up-to-date customer account information is kept
+Houston, TX
+SALES ACCOUNT DIRECTOR
+03/2004 ? 05/2010
+Manage, up-sell, and develop growth opportunities with active client partners
+Develop a trusted network with consulting companies and creative agencies
+Develops and maintains key customer relationships
+Manage up in regards to any and all sales activity including cold calling, presentations, RFPs, and closings
+Effectively work across multi-functional teams within Kerry to promote and deliver best-in-class service
+Develop and deliver professional, on target, effective, presentations, product demonstrations and proposals
+Develop strong strategic relationships within Key Customers R&D, Marketing and Sourcing and foster counterpart relationships within Kerry
+EDUCATION
+Bachelor?s Degree in Business
+OHIO UNIVERSITY
+SKILLS
+Highly skilled and experienced at negotiating with Fortune 500 companies for multi-million dollar contracts
+Develop strong strategic relationships within Key Customers R&D, Marketing and Sourcing and foster counterpart relationships within Kerry
+Strong analytical and computer skills with key software (such as Word, Excel, PowerPoint, and contact management software
+Highly motivated individual who is willing to work in a dynamic setting in an aggressive growth company
+Exceptional ability to demonstrate presence in all aspects of demeanor
+Prospect and ?close? new business opportunities through standard product, custom product and integrated solution selling
+Mastery of relationship building skills
+Work is performed in an office and/or laboratory and/or clinic environment with exposure to electrical office equipment
+Frequently drives to site locations and clients, frequently travels both domestic and internationally with extended overnight stays
+Exposure to fluctuating temperatures frequently during travel",12,4
+"Ned Vandervort
+485 Kunze Knolls Chicago IL  Phone +1 (555) 675 5456
+EXPERIENCE
+Dallas, TX
+TECHNICAL ACCOUNT MANAGER
+01/2014 ? present
+Processing, triaging and tracking publishers/developers submissions and marketing requests, communicating directly with publishers/developers
+Rotating on-call (page duty) for emergency/incident response
+Ensuring the ACS strategy complements and enhances the overall account strategy
+Advising the account on the most effective and efficient way to use Oracle support services and products
+Assisting in renewal of ACS contracts and contribute to pre-sales activities
+Processing, triaging and tracking seller submissions and product requests, communicating directly with sellers and TAMs
+Identifying additional opportunities for customers to engage with Oracle, such as technical events and business
+Los Angeles, CA
+TECHNICAL ACCOUNT MANAGER
+04/2011 ? 10/2013
+Building of deep, long-term customer relationships
+Holding a PMP certification and ITIL certification is a plus
+Managing the contract or delivery engagement as defined by ACS line management, including creating and maintaining accurate service documentation
+Coordinating/driving customer technical issues with support/engineering/consulting
+Willing to travel
+Adhering to Company policies, procedures, and directives regarding standards of workplace behavior in completing job duties and assignments
+Engaging with product management as the customer advocate on product roadmap discussions
+EDUCATION
+Bachelor?s Degree in Computer Science
+UNIVERSITY OF MEMPHIS
+SKILLS
+Very good knowledge of German and a good knowledge of English
+Excellent analytical skills & problem solving skills, combined with the ability to provide quick resolution to problems
+Able to quickly contribute quality designs and code on multiple aspects of the platform
+Ability to work in a highly ambiguous environment and to achieve high quality results
+Able to understand, articulate, manage and respond to customer's detailed technical issues in a timely and concise fashion (same day mandate)
+Has keen analytical skills, attention to detail and ability to work independently
+Strong multitasking abilities and quick decision making skills
+A quickly growing, great work environment that supports growth and development
+Strong knowledge in local operator enterprise sales operations
+Demonstrated ability to professionally handle difficult customer situations",12.5,4
+"Murphy Blanda
+260 O'Hara Field Phoenix AZ  Phone +1 (555) 292 0838
+EXPERIENCE
+San Francisco, CA
+SECURITY ACCOUNT MANAGER SLED UPPER MID WEST
+03/2015 ? present
+Large, complex deal management ($500k+)
+Drive revenue growth through new project identification, creation, and attach opportunities
+Partner closely with technical resources to ensure technical excellence in all positioning, competitive analysis, proposals, and exchanges
+Forge high-level relationships within assigned existing accounts to win incremental product and service business
+High level of attention to detail
+Adept at communicating with a largely technical audience
+Forecast and report activity accurately in line with expectations
+Phoenix, AZ
+SECURITY ACCOUNT MANAGER CONNECTICUT
+05/2011 ? 10/2014
+Good all round knowledge of Security Market
+Goal orientated and takes ownership
+Identify major projects within the largest accounts and managing activities to maximize product and services revenue
+Self starter
+Provides sales forecasting and visibility into sales activity by keeping a current pipeline using Cisco forecasting tools
+Professional sales training e.g. ? Strategic Selling, Power Base or Target Account Selling (TAS)
+Professional sales training e.g. Strategic Selling, Power Base or Target Account Selling (TAS)
+Chicago, IL
+SECURITY ACCOUNT MANAGER
+01/2009 ? 01/2011
+Evaluate contract performance and compliance; review of contract; review of staffing levels; review training documents; interact with client management
+Track record in closing major end user customers for projects running to more than $150,000
+Teaming with authorized Distributors, VARs and ISP?s on sales opportunities leveraging their capabilities to best effect
+Coordinating large procurements with the Federal Government using a variety of contracts and partnerships to meet customer?s unique demands
+Forging high-level relationships within assigned existing house commercial accounts to win incremental OpenDNS business for our Products and Services
+Develop a strong sales plan within the territory including both existing major as well as potential customers in Public Sector and FSI segment in Indonesia
+Track record in closing major end user customers for projects running to more than $750,000
+EDUCATION
+Bachelor?s Degree in Criminal Justice
+IOWA STATE UNIVERSITY
+SKILLS
+Ability to identify critical issues quickly and accurately
+High level of attention to detail
+Attention to detail
+Intelligent, exercises common sense, and uses good judgment
+Ability to coach, mentor, motivate
+Possess Strong Business Leadership and Acumen
+Ability to assess and evaluate situations effectively
+Ability to operate radio or telephone equipment and/or console monitors
+Ability to interact cordially and communicate with the public
+Ability to mediate conflict with tact, diplomacy",12,4
+"Florine Langosh
+5383 Fletcher Lodge Phoenix AZ  Phone +1 (555) 577 6047
+EXPERIENCE
+Chicago, IL
+SPP HEALTHCARE ACCOUNT EXECUTIVE
+12/2014 ? present
+Manages and owns the strategic healthcare relationship between hospital / IDN/ GPO and Staples Promotional Products
+Develops strategic plan to grow sales and margin within the assigned Healthcare clients for all Staples Promotional Products lines of business
+Works with other Lines of Business to introduce and drive incremental revenue opportunities
+Schedules/Manages Client Business Reviews and leads strategic discussions at reviews
+Analyzes our current position to identify discrepancies with client goals and develop a shared vision
+Recommends new products ideas to drive brand objectives
+Understands, communicates and interprets brand direction for all account team members
+Boston, MA
+HEALTHCARE ACCOUNT EXECUTIVE
+06/2008 ? 08/2014
+Create and manage execution of the account plan for existing accounts, including existing contract details and opportunities for further account development
+Work closely with the Executive Directors to develop and accomplish goals and strategic plans
+Ensure management of a large account base by providing superior customer service
+Generating revenue and working closely with a network of Channel Partners to successfully sell the Pure Storage solution
+Collaborate across the Client services, Product Development and Sales teams
+Exceptionally detail-oriented self-starter who can work independently
+Effectively manage and prioritize accounts
+Detroit, MI
+HEALTHCARE ACCOUNT MANAGER
+12/2002 ? 04/2008
+Engage and develop a strong network with decision makers/key influencers within the customer community and partner community
+3+ years of selling software solutions to Healthcare Providers, ideally in Payer and Provider accounts
+Ensure management and overall customer satisfaction, by providing superior customer service
+Provide product feedback back to engineering to improve Nutanix complete block solutions
+Provide status information to your Manager including forecast/pipeline information
+Resolves customer complaints by investigating problems, developing solutions, preparing memos/reports, and making recommendations to management
+Establishing and managing Account relationship with key decision makers
+EDUCATION
+Bachelor?s Degree in Business
+UNIVERSITY OF SAN FRANCISCO
+SKILLS
+Be detail-oriented and able to manage and maintain all facets of complex assignments ? solid technical leadership
+The Account Director should be comfortable in groups/teams and be able to both lead and follow
+Ability to identify critical issues quickly and accurately
+Attention to detail
+Ability to communicate effectively along vertical and horizontal planes internally and in Account organizations
+Capable of multitasking with rapidly changing priorities and manage multiple tasks in a dynamic environment
+Strong background in a project environment and application development
+Strong analytical, problem-solving and decision making capabilities
+Demonstrated relationship management & consultative selling aptitude with the ability to problem-solve and devise solutions for the customer
+Ability to target accounts and achieve results through an action plan",12,4
+"Colin Shields
+2683 Lang Meadows Dallas TX  Phone +1 (555) 887 9118
+EXPERIENCE
+Chicago, IL
+TECHNICAL ACCOUNT SPECIALIST
+09/2016 ? present
+Provides training to publishers as necessary for uploading metadata, and provide guidance on submitting content for print and digital distribution
+Work in conjunction with manager to reach/exceed the client/customer service satisfaction goals of Polycom Global Services
+Provide project leadership, coordination and architectural guidance for the customer?s Network Virtualization and major VMware initiatives
+Network Security Tools and Networking Concepts such as firewalls, IDS/IPS, and Security/Trust Zones
+Position could entail working non-standard hours, holidays and travel
+Provide technical expertise, support, and solutions to a specified set of Ecolab TCD customers where interaction will occur at the corporate level and will also be coordinated through the Corporate Account Managers
+Understand the customer?s high-level business challenges while functioning as an advisory resource for ?Best Practices? and driving adoption of VMware solutions within your accounts
+San Francisco, CA
+GLOBAL TECHNICAL ACCOUNT MANAGER
+08/2013 ? 08/2016
+Works with other account teams and GSD management within GSD to provide solutions selling assistance
+'Works effectively with Account Manager and other members of the sales team to
+Assists with the development of best practices based on what is learned during the early adopter program
+'Supports the Global Account Manager or Account Manager in sales activity to identify and qualify new opportunities
+Drive development and execution of the overall HDS GTM Strategic Opportunities plan, based upon input from corporate and geo stakeholders
+Provides HDS GTM Strategic Opportunities for solutions selling across the GSD
+Develop project plan and define initial project risks
+Houston, TX
+TECHNICAL ACCOUNT ANALYST
+09/2009 ? 04/2013
+Create, edit and delete network accounts
+Active Directory account administration for employees to provide user IDs and email addresses
+Develop methods to identify and resolve data quality issues
+Working knowledge of VLOOKUP?s in MS Excel
+Managing access to the corporate Wi-Fi networks
+Performs other duties as assigned
+Performs functions for special projects
+EDUCATION
+Bachelor?s Degree in Computer Science
+CALIFORNIA STATE UNIVERSITY, NORTHRIDGE
+SKILLS
+A proven knowledge of the IT infrastructure, Big Data and Analytics market, technologies and solutions
+'Maintains knowledge, skills, and market awareness in specialty area and makes appropriate use of Solutions and
+'Assists in preparation of Hitachi proposals and ensures that Hitachi proposals are achievable and represent the optimum solution within defined constraints
+Confirm ability of envisioned solutions to address customers' pain points and business objectives
+Cloud offerings and architecture knowledge
+A working knowledge and background in application development and/or deployment and management
+Confident and self-reliant, but able to work as a team member, demonstrating clear commitment to team objectives
+Excellent communication, interpersonal, presentation, and demonstrated analytical skills
+Able to establish and demonstrate technical credibility with customers and partners
+A well-documented, solid and successful solution architect career having generated results from direct, partner and solution sales efforts",4.5,1
+"Alessandra McLaughlin
+331 Ankunding Turnpike Boston MA  Phone +1 (555) 896 5581
+EXPERIENCE
+Phoenix, AZ
+SENIOR RETAIL ACCOUNTANT
+06/2016 ? present
+Perform special projects assigned by management
+Field questions from other Accounting Departments and communicate with Store Managers and Territory Managers on various issues
+Prepare month end reporting package for management/brand operations
+Assist in PDI training for Retail procedures for new employees
+Recommends and reviews proposed process improvements. Explores the modification and implementation of changes in systems and procedures
+Manage month end fuel stick adjustment reporting
+Daily DRSA reporting to ensure all paperwork is submitted
+Boston, MA
+ACCOUNTANT, RETAIL
+07/2012 ? 04/2016
+Handle full set of accounts
+Closely monitor the inventory movement and maintain the database
+Prepare financial schedule and assist in annual audit
+Responsible for monthly management reporting
+University graduate in Accounting
+Excellent command in written and spoken English, Cantonese and Mandarin
+Assist in month end close process to ensure timely and accurate retail financial statements
+Los Angeles, CA
+RETAIL ACCOUNTANT
+12/2006 ? 01/2012
+Daily monitoring of Commission Agent?s paperwork entry in the Petronet system and daily monitoring of Company Operated stores paperwork
+Log-in fax to email paperwork daily commission Agent and Company Operated paperwork submissions and verify proper documentation is received
+Field questions from other Accounting Departments and communicate with Store Managers, Commission Agents and Territory Managers on various issues
+Perform self-review of work to identify problems and solutions
+Special projects assigned by Manager
+Perform monthly rent analysis; prepare related accruals including percentage rent calculations
+Perform accounting tasks for independent retailers across the US and Canada
+EDUCATION
+Bachelor?s Degree in Finance
+CLARK ATLANTA UNIVERSITY
+SKILLS
+Ability to communicate well with non-finance individuals
+Self-motivated and able to work to deadlines
+Experience with ERP systems
+Other languages would be an advantage
+Advanced excel skills essential
+Fluent German and English language skills (written and verbal)
+Qualified accountant ACCA / CIMA/ ACA",11,3
+"Abigale Barton
+779 Ericka Islands San Francisco CA  Phone +1 (555) 886 8836
+EXPERIENCE
+Boston, MA
+FINANCIAL ACCOUNTING & REPORTING ANALYST
+06/2015 ? present
+Performing revenue recognition activities and ad hoc related queries
+Manage invoice process, accruals, prepayments and intercompany process
+Analyze financial data that feeds into senior management reporting
+Placing accurate financial data against correct deals in the internal system
+Managing the accruals, prepayments and intercompany process
+Maintaining evidence of Balance Sheet Integrity and SOX Controls
+Preparing daily, weekly and monthly Profit and Loss reports across various relevant businesses
+Detroit, MI
+BENEFITS ACCOUNTING & REPORTING ANALYST
+08/2010 ? 02/2015
+Assist in preparation of audited financial statements for the various Pension, Savings and Health and Welfare (H&W) plans to file with the Form 5500s
+Assist in preparation of trial balances and footnote support for audited financial statements
+Perform analytical reviews of benefit plans? financial statements
+Assist with audit requests
+Reconciliation of general ledger data to trustee reports
+Prepare audited financial statements for the various Pension, Savings and Health and Welfare (H&W) plans to file with the Form 5500s
+Ad hoc data requests related to the benefit plan financial data
+Houston, TX
+ACCOUNTING & REPORTING ANALYST
+12/2003 ? 02/2010
+Perform BS & P&L analysis in order to ensure information quality and integrity
+Participate in the analysis and implementation of SOX and internal policies
+Perform OVH analysis
+Support A&C process
+Manage royalties (calculate, report and invoice issue)
+Support external suppliers (prepare information and answer consultations for Tax & Audit processes)
+Participate in annual USGAAP and local financial statement report
+EDUCATION
+Bachelor?s Degree in Accounting
+RUTGERS UNIVERSITY
+SKILLS
+Attention to detail
+Strong organizational skills
+Ability to work independently
+Strong communication skills - both oral and written
+Standing Alone
+Action Orientated
+Priority Setting
+Learning on the Fly
+Problem Solving",3,1
+"Katrina Kassulke
+26020 Purdy Ramp San Francisco CA  Phone +1 (555) 857 1154
+EXPERIENCE
+Los Angeles, CA
+ASSISTANT MANAGER, DIGITAL ACQUISITION
+11/2016 ? present
+Provide budget information to the overall Manager to facilitate an overall view of marketing spend for Customer Communications & Marketing
+Preparation of creative briefs that meet business objectives and provide essential information and direction for creative development
+10% E. Risk Management and Control
+40% C. Coordination of Campaign Development
+Assist and coordinate the execution of communications, including the following key activities
+10% D. Relationship Management
+Assist in the execution of customer marketing campaigns
+Boston, MA
+CITIBANK BERHAD KL DIGITAL ACQUISITION PARTNERSHIP RM
+04/2011 ? 07/2016
+Jointly develop, manage and execute launch plans for each new initiatives with customer franchise
+Provide periodic updates to management on market study through all possible channels on latest digital buzz and potential partners
+Number of leads generated i.e. performance from partnerships acquired
+Responsible for establishing, developing, negotiating and implementing a variety of new partnerships which will enhance and support the Digital Acquisition Goal
+Responsible over identifying, developing and implementing new partnerships and initiatives for acquisition tie-ups across consumer products covering NTB Credit Cards, Personal Loans, Mortgages ,CitiGold and Citi Priority
+Key account management for partnerships sourced
+Collaborate with key internal stakeholders to ensure timely partnership on boarding
+Chicago, IL
+DIGITAL ACQUISITION COORDINATOR
+11/2004 ? 12/2010
+Work cross functionally across Creative, Merchandising, Social, Ecommerce, CRM teams to ensure digital strategy is aligned with overall marketing initiatives
+Communication, execution and testing of all promotional campaigns and troubleshooting issues with Digital IT team from inception to completion
+Weekly marketing campaign reporting and analysis of paid media channels
+Coordinate the design, development, creation and trafficking of landing pages and display banners
+Responsible for managing relationships with third-party vendors and optimizing all campaigns
+Assist with new partner recruitment in affiliate, vetting agency suggestions to ensure they are on brand
+Contribute to marketing and creative brainstorm sessions
+EDUCATION
+Bachelor?s Degree in Integrity
+UNIVERSITY OF KENTUCKY
+SKILLS
+Strong attention to detail and passion for quality
+Strong time management skills and ability to balance multiple projects/deadlines
+Strong attention to detail and manage time effectively
+Strong proficiency in Microsoft Excel
+Ability to work in a matrix environment
+Demonstrated persistence, tenacity, and an ability to overcome obstacles
+Knowledge of effective creative messaging
+Strong analytical and measurement capabilities
+Ability to balance multiple projects and deadlines
+Strong oral, written and presentation skills",2.5,1
+"Mac Willms
+468 Elsie Square San Francisco CA  Phone +1 (555) 129 6546
+EXPERIENCE
+Los Angeles, CA
+F-OPERATIONS SUPPORT ADMIN
+03/2015 ? present
+Interpreting and disseminating inspection results and recommends action to correct deficiencies and improve performance
+Scheduling maintenance jobs, helps establish work priorities, and monitors completion times
+Developing exercise objectives and scenario events list. Debriefs exercise participants and publishes written reports
+Using automated system to schedule and monitor maintenance activities' workload
+Developing operational training plans and evaluates effectiveness of training programs
+Determining maintenance capabilities to aid in developing operational schedules
+Developing operational plans and organizes operational programs
+Chicago, IL
+APPLICATION SUPPORT ADMIN
+05/2008 ? 12/2014
+Provides technical assistance to programming staff in the analysis of application software abends, performance, and resource consumption
+Assists client support with development of internal and client directed communications related to incidents, problems or known errors
+Capacity and performance management for applications
+Provides standardized operational reporting metrics to business as well as information technology management
+Provides technical support activities for a software production processing environment
+Incident resolution support (troubleshoot, fix), incident management within defined SLAs, search for solutions of issues in cooperation with various teams
+Conducts production support validations/certifications and accepts turnover from development
+Phoenix, AZ
+SALES SUPPORT ADMIN
+12/2003 ? 02/2008
+Assisting with pre-sale and post-sale support including setting appointments, preparing proposals and illustrations and maintaining related sales databases
+Conducting price and contract administration, to include standard SAP price maintenance and ?Special Pricing?
+Works as a member of a sales team to sell assigned products or services to identified key accounts
+Responsible for providing support to sales team to generate leads for specific products and/or services, developing new accounts and/or expanding existing accounts
+Takes an active role in directing/managing various field sales organization solicitations
+Providing administration support for management and producers for promotional activities, including seminars, workshops, etc. This may include preparing presentation materials
+Updates deal registration data in Salesforce and provides ongoing management
+EDUCATION
+Bachelor?s Degree in Electronics
+BAYLOR UNIVERSITY
+SKILLS
+Strong organizational skills and ability to handle multiple tasks and meet deadlines
+Team skills, including the ability to establish and maintain effective working relationships
+Ability to demonstrate interpersonal and teambuilding skills and manage conflict
+Ability to understand and apply concepts
+Ability to analyze and solve problems using learned techniques and tools including escalation practices
+Skill in basic diagnostic techniques and corrective actions to resolve day-to-day problems
+General business skills, industry knowledge, financial management and planning skills
+Strong analytical, statistical, and problem solving skills
+Ability to utilize judgment in decision making process and decisions related to job tasks
+Communicates ideas both verbally and in written form in a clear, concise, and professional manner appropriate to audience including executive levels",11.5,4
+"Odell Kiehn
+43779 Hermann Pines Boston MA  Phone +1 (555) 668 9068
+EXPERIENCE
+Los Angeles, CA
+SYSTEM ADMINISTRATION LEADER
+05/2016 ? present
+65% - System Administration
+15% - System Development Lifecycle Activities
+65%: System Administration
+20%: Documentation & Training Material
+15%: System Development Lifecycle Activities
+Align with Regional Service Delivery Leadership to collaborate on activities to maintain and support the current infrastructure technologies throughout Ascension
+Establish and monitor clearly defined key performance indicators and service levels for all Technical Operations and personnel to support best in class customer service
+New York, NY
+PACS SYSTEM ADMINISTRATION
+09/2013 ? 03/2016
+Provide systems security administration, and coordinate McKesson?s support for the Radiology Picture Archiving and Communication System and/or Cardiology Picture Archiving and Communication System
+Providing clinical application support and peripheral device support directly to hospital end-users
+Work daily with physicians and clinical staff to ensure imaging systems are operating correctly
+Work with x-ray modalities to ensure image transmission is working correctly
+Oversees equipment maintenance and systems testing, upgrading, and installing
+Perform full architecture repairs (link/unlink studies, phantom QA issues, remove scanned documents and reports, recover deleted images, reset image count, migrate/archive/compress, etc)
+Perform user account administration (add or delete accounts)
+Chicago, IL
+SYSTEM ADMINISTRATION
+01/2008 ? 07/2013
+Manage the CTD network and develop engineering solutions to optimize performance
+Develop and manage enterprise wide strategy for the maintenance, repair, and upgrade of the network and AIS equipment
+Ensure latest model firewalls are in place and network intrusion devices provide the best performance and security
+Motivation to create tools that make workflows easier is mandatory
+Plan for and maintain development networks, storage, COTS upgrades, virus definitions and collaboration tools, create and maintain user accounts
+Provide and manage system documentation for all related network systems
+Coordinates hardware/software installations and upgrades to ensure work is properly performed in accordance with company policy
+EDUCATION
+Bachelor?s Degree in Computer Science
+LOYOLA UNIVERSITY CHICAGO
+SKILLS
+Solid written English communication skills
+Ability to graphically represent concepts and architectures in documentation
+Excellent oral and written communication skills
+Ability to diagnose and resolve complex technical problems
+Practical ability to take on advanced work in the mentioned skill areas
+Experience packaging applications using Admin Studio
+Database administration experience is an advantage
+Experience working as part of Agile software development teams is
+Advanced problem solving skills
+Experience with administration of virtual PCs using VMware and Unidesk software",4.5,1
+"Luis Tromp
+865 Hilda Unions Dallas TX  Phone +1 (555) 826 2960
+EXPERIENCE
+Philadelphia, PA
+HUMAN RESOURCES & ADMINISTRATIVE ASSISTANT
+09/2016 ? present
+Administration of all Thermo Fisher and campus tenants for security ID badge distribution. Issue ID badges with assignment of access levels as directed by HR or supervising manager. Provide problem solving with ID badges that do not work. Administrators all off-site badges, visitors, and forgotten badges for proper level of access or deletion. Provides service information to supervisor for equipment failures on ID processing equipment
+Provides administrative support to the Director of Human Resources on all matters; overall assists administratively on all HR functions, projects and team initiatives
+Answer incoming telephone calls, screen calls and answer inquires from inside and outside the company regarding Human Resources matters; Handles employee calls regarding employee benefits and other HR issues
+Provide assistance with job postings - drafting and posting to job boards
+Create and maintain a high volume of files for new and existing Employee Relations cases. Submit forms for involuntary departures as the liaison for our outplacement vendor
+Send, track, and file all new hire paperwork including fingerprinting appointment confirmations, direct deposit information, and pre-hire training certifications
+Fully support Company goals of continuous improvement and operational excellence at strategic and tactical levels including reviewing area of responsibility for improvement opportunities to initiate projects or communicate ideas to management as well as active participation on project teams
+Phoenix, AZ
+HUMAN RESOURCES, ADMINISTRATIVE ASSISTANT
+01/2013 ? 07/2016
+Create and distribute timely reports to HR management
+Heavy client interaction with high-level executives; act as liaison with clients and their assistants
+Provide analytical support to the HR team
+Arrange all aspects of travel, keeping executives? travel profile up-to-date, manage approvals, arrange flights, hotels, rental car and sedan service
+Type correspondence, memos and presentations, prepare presentation and meeting materials; copy, collate, bind if necessary
+Prepare and submit all expense reports on a timely basis, following up on discrepancies and missing receipts to maintain current balances
+Maintain calendar, schedule all meetings and conference calls, field e-mails and phone calls requesting meetings, handle meeting conflicts and prioritization issues
+San Francisco, CA
+HUMAN RESOURCES ADMINISTRATIVE ASSISTANT
+12/2010 ? 12/2012
+Schedule complex meetings and coordinate all related logistics.This includes reserving conference rooms, ensuring that conference and video calls (including international) are ready, preparing meeting materials, welcoming guests and answering or directing inquiries, coordinating meal delivery, etc
+Support the Payroll Dept. by filing payroll backup on a weekly basis and providing assistance with Verification of Employment inquiries along with other clerical responsibilities as may come up during regular course of business on weekly basis
+Prepare reports in Word and/or Excel and assist with PowerPoint presentations.May include formatting, editing, printing and/or copying text, data, and graphics. May also include preparing mail merge documents in Word, vlookup and other complex Excel formulas, and detailed formatting of presentations
+Oversee the online timesheet process including but not limited to setting up new users (both candidates and clients), troubleshooting, invoicing, tracking submissions and approvals etc
+Maintain and manage calendars in Microsoft Outlook, requiring interaction with external vendors and internal executives and their assistants to coordinate meetings
+Coordinate and/or assist with internal employee events (ie. Town Halls, Friends & Family Screenings, Summer Events, Children?s Holiday Party, Employee Holiday Party, etc.)
+Manage Human Resources Reception Desk by answering the phone, fielding associate inquiries and departmental inquiries, performing transactions for various HR items and tracking and depositing funds with Finance
+EDUCATION
+Bachelor?s Degree in Human Resources
+DUKE UNIVERSITY
+SKILLS
+Proficient in Microsoft Office to include word, excel and PowerPoint
+Excel to be able to develop clear presentations and data displays
+Experience and proficiency working with automated expense tracking, online travel etc
+Ability to perform in a fast paced environment and interact with senior management under highly demanding conditions
+Strong analytical, interpersonal and communication skills
+Excellent organizational skills; detail oriented
+Self-starter with the ability to work independently with minimal guidance
+Acceptable level of hearing and vision to perform job duties
+Ability to handle confidential information
+Ability to prioritize, handle multiple tasks, and meet multiple deadlines simultaneously",3.5,1
+"Darrel Borer
+65891 Kali Unions Houston TX  Phone +1 (555) 617 9708
+EXPERIENCE
+San Francisco, CA
+SENIOR IT ADMINISTRATOR
+08/2016 ? present
+Knowledge of AV and Video Conferencing hardware and software. We currently use Lifesize and Chromebox as our video conferencing solutions
+Being current on the latest IT trends and technologies to help guide the direction of the team is important
+Arrange installation of site data cabling and IT infrastructure such as multi-function copiers in conjunction with Central and Mobile IT teams
+Scripting and automation
+Ensure that Service Desk and directories are kept up to date with new site set-ups and closures
+The confidence to think on your feet and solve for a problem quickly and to tight deadlines
+Own and Lead IT Projects. Ensure precise execution of your IT Project throughout the complete Project lifecycle
+Phoenix, AZ
+LEAD IT ADMINISTRATOR
+07/2011 ? 03/2016
+Installs, configures, and troubleshoots desktop systems, workstations, servers, and network issues in a heterogeneous environment
+Provide initial response and manage problem resolution process for outages and problems
+Supports server, network, and desktop based software and applications
+Provides day-to-day technical support to employee?s desktop systems software & hardware
+Highly developed verbal and written communications
+Demonstrated knowledge of TCP/IP networking and the OSI model
+May participate in the development of information technology and infrastructure projects
+Phoenix, AZ
+IT ADMINISTRATOR
+02/2009 ? 05/2011
+Providing support including talking staff through a series of actions, either face to face or over the telephone, including procedural documentation
+Working knowledge of EDI protocol a plus
+Mailing List management - Take ownership of this and improve the process
+Perform regular file archival and purge as necessary. Create, change, and delete user accounts per request
+Performing regular backups in Germany including recovering planning ?
+Translation Management
+Mailing list management
+EDUCATION
+Bachelor?s Degree in Computer Science
+ILLINOIS STATE UNIVERSITY
+SKILLS
+Knowledge of Axia and SIP is highly valued
+Excellent technical knowledge of PC internal components
+Excellent technical knowledge of PC and desktop hardware, including DELL, Compaq
+Excellent knowledge of Windows XP/Windows 7
+Strong Scripting knowledge (PowerShell, VBScript, WMI)
+Basic knowledge surrounding Storage Area Network (SAN) technologies
+Experience working in a tactical environment, alongside military or DoD personnel, is highly desirable
+Knowledge of VoIP protocols H323/SCCP/RTP/QoS/SRST/MGC/SIP desirable
+Proficiency in one or more of the following scripting methodologies highly desired: Powershell, Bash, Kshell, or other
+Ability to learn new technologies and systems quickly",13.5,4
+"Chanel Wilderman
+9584 Mohr Ways Philadelphia PA  Phone +1 (555) 199 9318
+EXPERIENCE
+Detroit, MI
+SLD WEB CONTENT ADMINISTRATOR
+04/2015 ? present
+Provides data governance in support of the online SLD B2B Sales Portal
+Provides support to Mitchell & Ness with load of content on the SLD B2B Sales Portal
+Promotes the sale of SLD products by developing new interactive sales tools and resources for SLD web applications
+Creates/develops digital media adhering to brand strategies and multi-league identify systems
+Manages and maintains: Pay Bill functionality on sldcustomer.com
+SLD Digital Catalog Library on sldcustomer.com and/or B2B Sales Portal
+Content management of Adidas-team.com and the team dealer storefront portal
+Phoenix, AZ
+WEB CONTENT ADMINISTRATOR
+10/2012 ? 03/2015
+Interfaces daily with numerous communications leads and public health SMEs across the agency to plan the editorial calendars, solicit and review content, propose changes to content/images, make adjustments to the planned content release, coordinate social media promotion, and ensure web team members build the pages as per agency specifications
+Collaborates with team lead and peers to develop and schedule content for site pages based on agency priorities, Director/agency initiatives, new releases, current events and public health observances
+Develops content inventory for existing sites
+Reviews and edits existing content; researches and writes new content
+Plans and coordinates writing efforts and clearance of content
+Ensures content follows plain language and CDC writing standards
+Participates in development and analysis of user surveys, research and review of metrics, creation of site maps, and definition of site architecture and navigation
+Houston, TX
+CONTENT ADMINISTRATOR
+01/2009 ? 08/2012
+Provide reports and details to the amount of work being performed, deadlines and expectations for a future workload
+Creates and manages editorial calendars, works with communication staff, disseminates information as scheduled, and ensures quality control
+Work with various internal and external stakeholders and contractors to develop new content and manage existing content for website
+Handle, manage, create, upload, track, and remove content on the
+Work with various internal stakeholders to manage new and existing content for web systems using Sitecore, EMC Documentum, and IBM WebSphere
+Assists in developing newsletters and other communications
+Provide content management tool mentoring and training for non-technical client content owners
+EDUCATION
+Bachelor?s Degree in Information Systems
+EAST CAROLINA UNIVERSITY
+SKILLS
+Strong attention to detail
+Extremely high attention to detail with emphasis on accuracy, quality and timeliness
+Microsoft Office/Suite proficient (Outlook, Word, etc.)
+Advanced Excel skills and experience using advanced features such as pivot tables and v-lookups
+Proficient with social media from a business standpoint (FB, Twitter, G+)
+Demonstrated ability to work with a wide variety of people
+Basic Adobe Photoshop skills
+Demonstrated focused attention to detail
+Highly organized
+1+ year of professional Proofreading, Copy Editing, and Fact-Checking experience in Publishing; 1+ year of experience in Web-based Publishing environment",4,1
+"Richmond King
+799 Jovanny Shoal Boston MA  Phone +1 (555) 845 6704
+EXPERIENCE
+Dallas, TX
+IT COLLABORATION SOFTWARE ADMINISTRATOR
+05/2014 ? present
+Background in supporting large scale enterprise tools in the domain of web content management, enterprise portals, content management, enterprise collaboration
+Excellent time management
+Assess and make recommendations on processes, designs, operations, and testing
+Help team ensure compliance with IT policies and procedures
+Generate detailed analytics - web, impact metrics, reporting, configuration and data migration
+Administer Jive, Coveo, SLACK, Confluence, JIRA - a mix of on premise and cloud technologies
+Keep up with current technology trends
+Phoenix, AZ
+SOFTWARE ASSET ADMINISTRATOR
+07/2010 ? 12/2013
+Respond to requests from end users, managers, developers, and team members for specific IT Software Asset Management data information
+Familiarity with software asset management processes and tool(s)
+Supporting the SAM Manager with basic software requests via the HEAT service desk solution
+Develop and implement procedures for tracking company software assets to oversee quality control throughout their lifecycles
+Assisting procurement with any software related orders or renewal enquiries
+Consolidating software contracts to streamline our contracts portfolio and resellers
+Updating the software contracts database with new, optimised agreements
+San Francisco, CA
+SOFTWARE ADMINISTRATOR
+04/2004 ? 01/2010
+Designing and developing Managed File Transfer (MFT) solutions in a tier 0 environment
+Executes and manages scripts to maintain the desktop infrastructure environment
+Develops pioneering approaches to emerging industry trends
+Establishes system by planning and executing the selection, installation, configuration, and testing of PC and server software
+Provides moderate level of reporting and analysis regarding field service operations through Microsoft SQL
+Performs other special projects or duties as assigned
+Ensures that platform patch management is kept current
+EDUCATION
+Bachelor?s Degree in Computer Science
+HOWARD UNIVERSITY
+SKILLS
+Proficient with MS Excel, Word, Visio, Outlook
+Strong Microsoft Office Skills
+Excellent verbal and written communication
+Extensive troubleshooting ability over various platforms
+Knowledge of virtualization technologies including resources allocation in VMware ESXi hypervisor and Microsoft Hyper-V
+Knowledge of Microsoft windows configuration, installation, maintenance, support and troubleshooting
+Working knowledge of Relational Databases and query languages (DB2 and SQL)
+Working knowledge of programming and software development
+Able to train to serve as a subject matter expert (SME) for the desktop/application environment
+Working knowledge of IBM WebSphere Application Server",5.5,2
+"Terrell Turcotte
+48985 Walter Knolls Boston MA  Phone +1 (555) 926 5275
+EXPERIENCE
+Chicago, IL
+SENIOR WINDOWS SYSTEMS ADMINISTRATOR
+12/2013 ? present
+Develop reporting tools to inform management and help decision-making about support activities, priorities, and performance
+Applies engineering principles to acquire, implement, design, develop architectures, and maintain integrated computer systems
+Deploy and manage IT Operations Management Infrastructure Tools
+Develop and communicate vision for system improvements then realize vision through planning, leadership, and execution
+ESXi, vSphere systems administration and support including VMs management, vMotion, HA, DRS, vCenter Service Manager
+Assists in the creation of the system design and functional specifications for all new or ongoing development projects
+Provide primary system administration, configuration, and troubleshooting of the Windows servers environment and performance issues
+Los Angeles, CA
+JUNIOR WINDOWS SYSTEMS ADMINISTRATOR
+07/2010 ? 07/2013
+Identify and develop solutions to automate existing processes and improve the efficiency of workflows
+Adjusts workloads of the operating environment to provide optimum resources to applications, system jobs and testing
+Provides assistance to users in accessing and using client/server systems
+Addresses work requests in accordance with established service level commitments
+Take ownership of the work you have created, ensuring quality completion
+Additionally, the candidate optimizes system operation and resource utilization, and performs system capacity analysis and planning
+Assist in onboarding for new and junior members of the team
+Detroit, MI
+WINDOWS SYSTEMS ADMINISTRATOR
+05/2005 ? 04/2010
+Manage and maintain a smooth operation of workstations while working with network, software, and hardware engineers that are remote and on site
+Manage and administer all aspects of user account management such as password, group, and privilege management for user access across entire AOR
+Provide backup and recovery services; manage file systems and disk space; manage virus protection system and update virus definitions on a routine basis
+Perform optimization and performance testing, provide technical support for incident response and reporting
+Monitor and tune systems to achieve optimum performance levels; provide performance statistics and reports
+Ensure infrastructure project work, changes are performed in compliance with corporate risk and security policies
+Makes recommendations to purchase hardware and software, coordinates installation and provides backup recovery
+EDUCATION
+Bachelor?s Degree in Computer Science
+UNIVERSITY OF ILLINOIS AT CHICAGO
+SKILLS
+Strong leadership skills Strong organizational skills Working knowledge of virtual computing technologies Working knowledge of thin client technologies
+Able to work well within a team environment and able to adapt quickly to change
+Excellent team player- proven ability to resolve problems professionally and systematically
+Detailed oriented, highly organized self-starter, able to multi-task without supervision
+Knowledge of Cisco hardware (Manage firewalls, switches, basic knowledge of how to work with/update os & firmware)
+Knowledgeable in license management and maintenance
+Strong attention to detail
+Ability to creatively apply a unique combination of skills & knowledge to the support and maintenance of the Stanford systems environment
+Basic Network knowledge
+Basic knowledge of a scripting language (vbscript, powershell) for use in automation of tasks",13.5,4
+"Stefanie Cremin
+8913 Jonathon Ports Chicago IL  Phone +1 (555) 725 7978
+EXPERIENCE
+Chicago, IL
+SENIOR CLINICAL TRIALS ADMINISTRATOR
+05/2014 ? present
+Assist in development of departmental training processes
+Provide assistance to CRAs with specific tasks
+Assist in development of departmental SOPs
+Work in conjunction with Departmental Manager on offsite storage and retrieval projects and processes
+Assist CTLs with preparation, handling, mailing and distribution of Clinical Trial Supplies and maintenance of tracking information
+Assist with coordination and organization of meetings for Clinical Trial Services
+Mentor and assist with the training of junior level staff
+New York, NY
+CLINICAL PROJECT ADMINISTRATOR
+08/2009 ? 04/2014
+Provide clerical support to the project team, work with multiple contacts (CRA, PM, Manager?)
+Create, update, track, and maintain study-specific trial management files, tools, and systems
+Perform other administrative duties as assigned by management
+Perform other duties as assigned by management
+Assist with the management of study supplies and organize shipments
+Provide input in writing Monitoring Conventions as assigned
+Assist with generation and reconciliation of queries to investigative sites/clients to resolve problem data
+Boston, MA
+CLINICAL ADMINISTRATOR
+02/2006 ? 04/2009
+Leading a team of clinical and business professionals to promote outstanding clinical results, physician, patient and teammate satisfaction with the center?s services and financial performance
+Working in collaboration with the Medical Director and surgeon partners to develop and maintain effective strategic, programmatic, and marketing plans to grow and maximize center outcomes
+Managing the center?s financial results, including a multi-million-dollar P&L, financial controls, reporting and analysis
+Ensuring quality outcomes, labor efficiencies, supply chain management, volume growth, revenue cycle optimization and regulatory accreditation/compliance
+Overseeing the center?s physical assets, including the building and equipment, in compliance with local, state and federal regulations
+Providing a comprehensive proactive admin service
+Routinely handling all admin/secretarial duties, including setting up meetings, scheduling appointments, maintaining calendar and proactive email management for the department Director
+EDUCATION
+Bachelor?s Degree in Independence
+SYRACUSE UNIVERSITY
+SKILLS
+Knowledge and management of project management tools and resources
+Ability to set priorities and handle multiple tasks simultaneously
+Good organizational and time management skills
+Knowledge of financial systems applications and accepted business process and practices
+Working knowledge of word processing and spreadsheet computer software packages and financial systems
+Ability to prioritize, plan, and execute multiple complicated and continuing contract and grant assignments in a timely manner
+Skill in establishing and maintaining effective working relationships. Excellent oral/written communication and interpersonal skills
+Skill in strategic and analytic thought with an ability to solve problems and make decisions
+Fluency in French and English language
+Aptitude for handling and reviewing numerical data",4,1
+"Tyra Ritchie
+86186 Oran Isle Houston TX  Phone +1 (555) 556 7019
+EXPERIENCE
+Chicago, IL
+DIRECTOR, ADVERTISING & MARKETING
+11/2014 ? present
+Manage the development and implementation of multi-platform, integrated marketing initiatives
+Excellent computer aptitude including working knowledge of MS Office Suite (Word, Excel, Access and PowerPoint)
+Oversee League-wide events and programs from ideation to execution including management of staff
+Work in conjunction with Senior Director in the execution of national brand advertising and marketing campaigns
+Support Advertising and Marketing Department on a variety of ongoing, special projects
+Serve as point of contact for Clubs regarding special initiatives
+Create, launch and facilitate implementation of League-wide initiatives including Event Days (Jackie Robinson Day, Mother's Day) focusing on: External partner management
+Chicago, IL
+MARKETING SPECIALIST, ADVERTISING OPERATIONS
+07/2010 ? 08/2014
+Manage day-to-day operation of Godaddy tag management solution
+Support management in development of site-wide tracking strategies
+Develop relationships with agency and internal stakeholders
+Create targeted audiences based on a combination of first and third party audience data
+Support framework for first party re-marketing efforts
+Maintain best practices
+Intermediate to Advanced Knowledge of MS Excel and/or Google Sheets
+Phoenix, AZ
+MARKETING & ADVERTISING INTERN
+11/2006 ? 02/2010
+Create and manage content on Corcoran.com and other web properties
+Create and manage content on corcoran.com
+Assist in creation and dissemination of training/education materials
+Attend weekly meetings and work closely with marketing team to determine priorities for outreach
+Assist in the distribution or delivery of marketing materials
+Develop creative for new digital campaigns
+Plan, coordinate and assist with launch of strategic event marketing initiatives
+EDUCATION
+Bachelor?s Degree in Advertising
+WEST VIRGINIA UNIVERSITY
+SKILLS
+Excellent organizational skills to function effectively under time constraints and within established deadlines, with particular attention to detail
+Ability to perform a variety of duties with extreme care and attention to detail
+Ability to research and extract pertinent information in preparation for management review
+Use of high-end, graphic arts workstation, with full knowledge of design programs including QuarkXPress, Photoshop and Illustrator
+Ability to prioritize and renegotiate deadlines and control workflow
+Ability to prioritize and effectively follow directions
+Strong leadership qualities and sound judgment with effective decision-making and problem solving skills
+Strong analytical and strategic planning skills
+Excellent customer service skills
+Working knowledge of Microsoft (Excel, Access, Word, PowerPoint, Internet and web based programs)",12,4
+"Myriam Hoeger
+40504 Kenyon Mount Philadelphia PA  Phone +1 (555) 473 0036
+EXPERIENCE
+Boston, MA
+SAFETY, HEALTH & ENVIRONMENTAL ADVISOR
+11/2016 ? present
+Assist in the development of safe systems of work
+Encourage a continuous improvement in safety performance by coaching of local supervisors and SHE Co-ordinators
+Provide clear and accurate advice to all employees and Senior Management Team
+Knowledge of safety management systems and maintaining in accordance with accreditation
+Hold safety as a core value and contribute to the achievement of a Zero Harm working environment
+Support the management of SHE Technical Standards
+Develop specialist knowledge in designated topic areas and use this knowledge to support colleagues and the business
+San Francisco, CA
+HEALTH, SAFETY & ENVIRONMENTAL ADVISOR
+02/2011 ? 05/2016
+Liaising with management on the notification of accidents and dangerous occurrences, and the reporting/recording of these incidents
+Clearly understands the standards set in the various management systems for HS&E
+Assist with the investigation of incidents to establish the root cause and preventative measures
+Develop and maintain a ?continuous improvement? ethos in the approach to health, safety and environmental issues and support the Groups Behavioural Safety Program
+Support the Business Unit and Operation Management teams in all aspects of health, safety and the environment performance and management,
+Support and guide the establishment in achievement of a recognised H & S and environmental accreditation
+Assist the Systems Manager with knowledge base management and research
+Houston, TX
+ENVIRONMENTAL ADVISOR
+07/2007 ? 08/2010
+Assessment and tracking of environmental program elements including objectives, targets and indicators, preparation of reports on environmental matters, incident reporting, tracking and trending, oversight and assessment of environmental management system, participate in audits, inspections and corrective action tracking and develop and revise environmental plans
+Working towards chartership status
+Providing specialist environmental knowledge to operational departments and contractors
+Pollution prevention mitigation
+Conducts storm water , spill prevention, and waste management system inspections and documents results. Identifies exceptions, prescribes corrective and preventative actions,and ensures corrective and preventative actions are implemented
+Awareness of the application of Environmental Management Systems
+Broad environmental knowledge of environmental impacts is essential: including air, water, noise, cultural heritage, landscape, resource efficiency and nature conservation
+EDUCATION
+Bachelor?s Degree in Environmental Science
+BOSTON UNIVERSITY
+SKILLS
+Adaptable team player with good initiative and strong problem solving skills
+Detailed understanding of Environmental legislation with good understanding of regulatory enforcement outcomes
+Good team player, reporting to the Environmental Manager, but able to work independently and on own initiative
+Strong leadership abilities and ability to influence without power
+Excellent written and verbal (formal and informal; negotiation; coaching) communication skills and excellent presentation skills
+Professional membership
+Ability to multi-task and work under pressure
+Excellent verbal and written communication skills, including public speaking
+Excellent IT skills
+The willingness and ability to travel nationally (a clean UK driving licence is essential)",2.5,1
